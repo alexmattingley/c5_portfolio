@@ -16,10 +16,14 @@
     * Flick on File, select __`Save As`__, and navigate to your 'HTML-Basics' folder
     * Name the file __`skeleton.html`__ and hit __`Save`__
 
-##### Update Your Status: `"task 1 update"`
-- [ ] Completed
-- [ ] Attempted
-- [ ] Other
+#### Update Your Status:
+- completed
+- attempted
+- other
+
+Save your commit changes as `"task 1 [status]"`
+
+--------------------------------------
 
 ## Set 1: HTML Basics
 
@@ -41,10 +45,14 @@
     * Paste this new file past into a new browser tab and hit go
     * The page should be blank, but your tab title should read __`Skeleton`__
 
-#### Update Your Status: `"task 2 update"`
-- [ ] Completed
-- [ ] Attempted
-- [ ] Other
+#### Update Your Status:
+- completed
+- attempted
+- other
+
+Save your commit changes as `"task 2 [status]"`
+
+--------------------------------------
 
 ## Set 2: HTML Headings & Paragraphs
 
@@ -71,10 +79,14 @@
     * Right-click inside the file and select __`Copy file path`__
     * Paste this new file past into a new browser tab and hit go to verify your code is displaying
 
-#### Update Your Status: `"task 3 update"`
-- [ ] Completed
-- [ ] Attempted
-- [ ] Other
+#### Update Your Status:
+- completed
+- attempted
+- other
+
+Save your commit changes as `"task 3 [status]"`
+
+--------------------------------------
 
 ## Set 3: HTML Lists (Ordered, Unordered)
 
@@ -97,10 +109,14 @@
     * Save the file as  __`ordered-lists.html`__ inside your __`HTML-Basics`__ folder
     * __`Copy file path`__ and run in browser to verify your code is displaying
 
-#### Update Your Status: `"task 4 update"`
-- [ ] Completed
-- [ ] Attempted
-- [ ] Other
+#### Update Your Status:
+- completed
+- attempted
+- other
+
+Save your commit changes as `"task 4 [status]"`
+
+--------------------------------------
 
 ## Set 4: HTML Links & Images
 
@@ -124,10 +140,14 @@
     * Copy/paste __`Images`__ JSBin code into a new file and save it as __`images.html`__ inside your __`HTML-Basics`__ folder
     * __`Copy file path`__ and run in browser to verify your code is displaying and the links direct you to the files you have previously created
 
-#### Update Your Status: `"task 5 update"`
-- [ ] Completed
-- [ ] Attempted
-- [ ] Other
+#### Update Your Status:
+- completed
+- attempted
+- other
+
+Save your commit changes as  `"task 5 [status]"`
+
+--------------------------------------
 
 ## Set 5: HTML Formatting
 
@@ -145,9 +165,19 @@ For this task you will need to create a new JSBin to add your completed code for
 
 Submit your 5 JSBin URL links here: ??
 
-#### Update Your Status: `"task 6 update"`
-- [ ] Completed
-- [ ] Attempted
-- [ ] Other
+#### Update Your Status:
+- completed
+- attempted
+- other
 
-__**Once you are completed with all tasks, submit your first pull request `"setup items & tasks completed"`__
+Save your commit changes as `"task 6 [status]"`
+
+--------------------------------------
+
+### Submission Guidelines
+
+Once you have updated all tasks with status update and made a commit update/task:
+
+1. Submit your first pull request `"setup items & tasks completed"`
+2. Pull request deadline: 8:00pm, Sunday 6/21
+
