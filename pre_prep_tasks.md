@@ -21,7 +21,7 @@
 - attempted
 - other
 
-Save your commit changes as `"task 1 [status]"`
+Save your commit changes as `"task 1 update [status]"`
 
 --------------------------------------
 
@@ -50,7 +50,7 @@ Save your commit changes as `"task 1 [status]"`
 - attempted
 - other
 
-Save your commit changes as `"task 2 [status]"`
+Save your commit changes as `"task 2 update [status]"`
 
 --------------------------------------
 
@@ -84,7 +84,7 @@ Save your commit changes as `"task 2 [status]"`
 - attempted
 - other
 
-Save your commit changes as `"task 3 [status]"`
+Save your commit changes as `"task 3 update [status]"`
 
 --------------------------------------
 
@@ -114,7 +114,7 @@ Save your commit changes as `"task 3 [status]"`
 - attempted
 - other
 
-Save your commit changes as `"task 4 [status]"`
+Save your commit changes as `"task 4 update [status]"`
 
 --------------------------------------
 
@@ -145,7 +145,7 @@ Save your commit changes as `"task 4 [status]"`
 - attempted
 - other
 
-Save your commit changes as  `"task 5 [status]"`
+Save your commit changes as  `"task 5 update [status]"`
 
 --------------------------------------
 
@@ -170,7 +170,7 @@ Submit your 5 JSBin URL links here: ??
 - attempted
 - other
 
-Save your commit changes as `"task 6 [status]"`
+Save your commit changes as `"task 6 update [status]"`
 
 --------------------------------------
 
