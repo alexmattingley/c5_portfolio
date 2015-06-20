@@ -27,5 +27,3 @@ Save your commit changes as `"task 1 update [status]"`
 
 [Proceed to Set 1](set_1.md)
 
-
-
