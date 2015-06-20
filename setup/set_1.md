@@ -9,7 +9,8 @@
 1. Edit __HTML Skeleton__ Base JSBin
     * In a new tab, go this JSBin Base link: <http://jsbin.com/juvitiqeru/1/edit?html,output>
     * Replace the code in the the above code so it looks like this: <http://jsbin.com/wapurivoqu/1/edit?html,output> (type it in, do not copy/paste)
-    * Copy the URL of the JSBin you just modified (it changed) and submit it here: ??
+    * Copy the URL of the JSBin you just modified (it changed) and submit it here:    
+    * http://jsbin.com/numatebiyu/edit?html,output
 2. Your First HTML Page
     * Go to your newly created __`skeleton.html`__ file
     * Copy the code from your modified JS Bin edit into your skeleton file
@@ -19,7 +20,7 @@
     * The page should be blank, but your tab title should read __`Skeleton`__
 
 #### Update Your Status:
-- completed
+x completed
 - attempted
 - other
 
