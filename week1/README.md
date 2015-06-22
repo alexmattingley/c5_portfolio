@@ -14,5 +14,8 @@
 #### Assignment
 
 1. Resubmit pull request to your own branch in the Prep-Work Repo
+  1. Change base fork from "Prep-Work/master" to "Prep-Work/username"
+  2. Update the message and click "Create pull request"
+  3. Click on "Merge Pull Request", theh click "Confirm merge"
 2. Interlink all your current HTML files
 3. Submit pull request by 10:00am tomorrow
