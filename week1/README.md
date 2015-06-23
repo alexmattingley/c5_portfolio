@@ -16,8 +16,7 @@
 __*Set 1(will not be rated):*__ 
 
 1. Resubmit pull request to your own branch in the Prep-Work Repo ([Pull Request Wiki Doc](https://github.com/Learning-Fuze/Prep-Work/wiki))
-
-3. Submit pull request (Set 1 will NOT be rated)
+2. Submit pull request (Set 1 will NOT be rated)
 
 __*Set 2 (Will be not be rated officially):*
 
