@@ -37,8 +37,8 @@ Status update commit message: __`html-css basics task 1 [status]`__
 	- Add a description to each page under your heading (View "tags" page for example)
 		- The description on each page should be a description of the tag/element that, that page represents
 	- Update the "tags" page table with the information for each tag/element
-4. When completed copy your files to gitHub
-	- Copy and paste your code into the appropriate files on your gitHub account
+4. When completed copy your files to GitHub
+	- Copy and paste your code into the appropriate files on your GitHub account
 Status update commit message: __`html-css basics task 1 [status]`__
 
 1. Update status/commit deadline
