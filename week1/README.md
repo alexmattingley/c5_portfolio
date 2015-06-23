@@ -28,4 +28,31 @@ This set will be rated and given feedback but will not count officially towards 
 3. Proceed to work on Set 2 Items
   1. Set 2 status update message deadline: 9:00pm
   2. __Pull Request #1 Deadline: Tuesday 10:00am__ 
-  
+
+## Tuesday 
+
+- HTML Blocks
+- HTML Basic Forms
+- Replaced Elements
+- Intro to CSS:
+    -  Style/Layout
+    -  Syntax & Cascade Rules
+    -  Basic Selectors
+    -  Specificity
+    -  Div/Span Groupings
+    -  CSS Styling:
+    -  Fonts & Colors
+
+#### Assignment
+
+Today's sets will be officially rated
+
+1. Create a pull request to update/merge your repo with the new files 
+2. Folders updated:
+  - [week1/html-css-basics-1.0](https://github.com/Learning-Fuze/Prep-Work/tree/master/week1/html-css-basics-1.0)
+  - 2 Sets, 6 Tasks [README File](https://github.com/Learning-Fuze/Prep-Work/blob/master/week1/html-css-basics-1.0/README.md)
+3. Proceed to work on Set 2 Items
+  1. Set 1 status update message deadline: 1:00pm
+  2. Set 2 Status update message deadline: 9:00pm
+  3. __Pull Request #1 Deadline: Deadline 10:00am__ 
+
