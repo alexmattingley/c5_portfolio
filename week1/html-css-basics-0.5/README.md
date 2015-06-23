@@ -39,7 +39,7 @@ Status update commit message: __`html-css basics task 1 [completed]`__
 	- Update the "tags" page table with the information for each tag/element
 4. When completed copy your files to GitHub
 	- Copy and paste your code into the appropriate files on your GitHub account
-Status update commit message: __`html-css basics task 1 [In progress]`__
+Status update commit message: __`html-css basics task 1 [Completed]`__
 
 1. Update status/commit deadline
 	- 9:00 pm
