@@ -22,13 +22,13 @@ Status update commit message: __`html-css basics task 1 [status]`__
 ### Task 2
 
 1. Add 7 more files locally for:
-	- Headings - `<h>` Filename: "headings.html"
-	- Paragraphs - `<p>` Filename: "paragraphs.html"
-	- Unordered Lists - `<ul> and <li>` Filename: "unordered-lists.html"
-	- Ordered Lists - `<ol> and <li>` Filename: "ordered-lists.html"
-	- Anchor Tags - `<a>` Filename: "anchors.html"
-	- Image tags - `<img>` Filename: "images.html"
-	- Tables - `<table>, <tr>, <th> and <td>` Filename: "tables.html"
+	- Headings - `<h>` filename: __`"headings.html"`__
+	- Paragraphs - `<p>` filename: __`"paragraphs.html"`__
+	- Unordered Lists - `<ul> and <li>` filename: __`"unordered-lists.html"`__
+	- Ordered Lists - `<ol> and <li>` filename: __`"ordered-lists.html"`__
+	- Anchor Tags - `<a>` filename: __`"anchors.html"`__
+	- Image tags - `<img>` filename: __`"images.html"`__
+	- Tables - `<table>, <tr>, <th> and <td>` filename: __`"tables.html"`__
 2. Build out your home page list navigation to link to all of your new files (Relative Links)
 	- Follow the example already started for you in the "index.html" file
 3. For each page add/modify
