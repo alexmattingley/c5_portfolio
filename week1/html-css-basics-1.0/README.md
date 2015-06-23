@@ -14,16 +14,16 @@ Before you get started:
 - [ ] in-progress
 - [ ] roadblock
 
-Commit message: __`html-css basics 1.0 task 1 [status]`__
+Commit message: __`html-css basics 1.0 task 1 [completed]`__
 
 ### Task 2: HTML Forms
 1. Go through the following:
   1. Read HTML Forms: <http://www.w3schools.com/html/html_forms.asp>
   2. Read How To Add CSS: <http://www.w3schools.com/css/css_howto.asp>
 2. Edit the following JSBin base link: <http://jsbin.com/dutarojoku/edit?html,css,output>
-  1. Add your modified JSBin link here: ??
+  1. Add your modified JSBin link here: <http://jsbin.com/tituyobazi/edit?html,css,output>
 3.  Edit the following JSBin base link: <http://jsbin.com/pixonizela/edit?html,css,output>
-  1. Add your modified JSBin link here: ??
+  1. Add your modified JSBin link here: http://jsbin.com/duyorozofi/edit?html,css,output
 4. Update your basics 0.5 project:
   1. Create an __`html-forms.html`__ file locally
   2. In the same file, update your descriptions and table for another 3-5 form control elements
@@ -33,7 +33,7 @@ Commit message: __`html-css basics 1.0 task 1 [status]`__
 
 #### Update Your Status:
 - [ ] completed
-- [ ] in-progress
+- [X] in-progress
 - [ ] roadblock
 
 Commit message: __`html-css basics 1.0 task 2 [status]`__
