@@ -1,16 +1,16 @@
 # HTML-CSS Basics 1.0
 Before you get started:
-- [ ] Make a pull request/merge to update your local repo with the new folder/files
-- [ ] In Google Docs (LF C5 Student Folder): [Review Slides 1-2](https://drive.google.com/drive/u/0/folders/0B6mn1BHjNxTgfklWenVXWDVva2hsRHhTdHFFejRuOTlOX0xVRGhKekt5NjJVVkctTG4zaEE)
+- [X] Make a pull request/merge to update your local repo with the new folder/files
+- [X] In Google Docs (LF C5 Student Folder): [Review Slides 1-2](https://drive.google.com/drive/u/0/folders/0B6mn1BHjNxTgfklWenVXWDVva2hsRHhTdHFFejRuOTlOX0xVRGhKekt5NjJVVkctTG4zaEE)
 
 ## Set 1: Blocks, Forms, & Replaced Elements
 
 ### Task 1: Inline & Block Level 
 1. Edit the following JSBin base link (HTML only): <http://jsbin.com/xejogesahe/edit?html,output>
-2.  Add your modified JSBin base link here: ??
+2.  Add your modified JSBin base link here: <http://jsbin.com/badeqaperi/edit?html,output>
 
 #### Update Your Status:
-- [ ] completed
+- [X] completed
 - [ ] in-progress
 - [ ] roadblock
 
