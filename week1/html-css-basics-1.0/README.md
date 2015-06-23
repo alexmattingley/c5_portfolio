@@ -62,7 +62,7 @@ Commit message: __`html-css basics 1.0 task 3 [COMPLETED]`__
   2. Read How To Add CSS: <http://www.w3schools.com/css/css_howto.asp>
   3. Read CSS Syntax: <http://www.w3schools.com/css/css_syntax.asp>
 2. Edit this base JSBin link: <a href="http://jsbin.com/yapijogohu/edit?html,css,output" target="_blank">Getting Started With CSS</a>
-  1. Add your custom JSBin url here: ??
+  1. Add your custom JSBin url here: <http://jsbin.com/vujucuyere/edit?html,css,output>
 3. Create a new __css-intro__ document
   1. In your __`CSS-Basics`__ folder, create a document __`css-intro.html`__
   2. Click into your JSBin HTML toggle screen:
@@ -71,11 +71,11 @@ Commit message: __`html-css basics 1.0 task 3 [COMPLETED]`__
     3. save file
 
 #### Update Your Status:
-- [ ] completed
+- [X] completed
 - [ ] in-progress
 - [ ] roadblock
 
-Commit message: __`html-css basics 1.0 task 4 [status]`__
+Commit message: __`html-css basics 1.0 task 4 [Completed]`__
 
 ### Task 5: Setting Up HTML/CSS Basics 1.0
 
