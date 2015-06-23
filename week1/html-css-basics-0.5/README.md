@@ -17,7 +17,7 @@
 	- Create a file named "tags.html"
 		- Copy the code from <a href="https://github.com/Learning-Fuze/Prep-Work/blob/scbowler/week1/html-css-basics-0.5/tags.html" target="_blank">HERE</a> and paste it into you "tags.html" file
 
-Status update commit message: __`html-css basics task 1 [status]`__
+Status update commit message: __`html-css basics task 1 [completed]`__
 
 ### Task 2
 
