@@ -42,14 +42,14 @@ Commit message: __`html-css basics 1.0 task 2 [completed]`__
 1. Go through the following:
   1. Read Site Point's Article: <http://reference.sitepoint.com/css/replacedelements>
   2. Read Mozilla's Replaced Elements Reference: <https://developer.mozilla.org/en-US/docs/Web/CSS/Replaced_element>
-2. Create a JSBin link adding at least 5 examples of replaced elements: ??
+2. Create a JSBin link adding at least 5 examples of replaced elements: http://jsbin.com/duyorozofi/edit?html,css,output
 
 #### Update Your Status:
-- [ ] completed
+- [X] completed
 - [ ] in-progress
 - [ ] roadblock
 
-Commit message: __`html-css basics 1.0 task 3 [status]`__  
+Commit message: __`html-css basics 1.0 task 3 [COMPLETED]`__  
 
 ***Set 1 Status Update @ 1:00pm: __`html-css basics 1.0 set 1 [status]`__
 
