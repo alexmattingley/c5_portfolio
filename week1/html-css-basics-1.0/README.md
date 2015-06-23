@@ -23,20 +23,20 @@ Commit message: __`html-css basics 1.0 task 1 [completed]`__
 2. Edit the following JSBin base link: <http://jsbin.com/dutarojoku/edit?html,css,output>
   1. Add your modified JSBin link here: <http://jsbin.com/tituyobazi/edit?html,css,output>
 3.  Edit the following JSBin base link: <http://jsbin.com/pixonizela/edit?html,css,output>
-  1. Add your modified JSBin link here: http://jsbin.com/duyorozofi/edit?html,css,output
+  1. Add your modified JSBin link here: <http://jsbin.com/duyorozofi/edit?html,css,output>
 4. Update your basics 0.5 project:
   1. Create an __`html-forms.html`__ file locally
   2. In the same file, update your descriptions and table for another 3-5 form control elements
   3. Update your home page link to include the forms page
-  4. Copy and paste the code into a JSBin file and add your link here: ??
+  4. Copy and paste the code into a JSBin file and add your link here: <http://jsbin.com/duyorozofi/edit?html,css,output>
   5. You may choose to update your files in GitHub (optional)
 
 #### Update Your Status:
-- [ ] completed
-- [X] in-progress
+- [X] completed
+- [ ] in-progress
 - [ ] roadblock
 
-Commit message: __`html-css basics 1.0 task 2 [status]`__
+Commit message: __`html-css basics 1.0 task 2 [completed]`__
 
 ### Task 3: Replaced Elements
 1. Go through the following:
