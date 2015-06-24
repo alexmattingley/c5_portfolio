@@ -22,7 +22,7 @@ Task Resources:
 - [ ] in-progress
 - [ ] roadblock
 
-Commit message: __`Student Name - task 1 [css-backgrounds]`__
+Commit message: __`css-backgrounds - set 1 update [status]`__
 
 ### Task 2: Home Page With Background Image
 
@@ -36,4 +36,4 @@ Commit message: __`Student Name - task 1 [css-backgrounds]`__
 - [ ] in-progress
 - [ ] roadblock
 
-Commit message: __`Student Name - task 2 [css-backgrounds]`__
+Commit message: __`css-backgrounds - set 1 update [status]`__
