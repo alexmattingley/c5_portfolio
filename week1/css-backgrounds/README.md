@@ -19,7 +19,7 @@ Task Resources:
 
 #### Update Your Status
 - [ ] completed
-- [ ] in-progress
+- [X] in-progress
 - [ ] roadblock
 
 Commit message: __`css-backgrounds - set 1 update [status]`__
