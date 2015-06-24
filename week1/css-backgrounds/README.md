@@ -7,11 +7,11 @@ Go through and read: <a href="http://www.htmlgoodies.com/beyond/css/article.php/
 ### Task 1: List Style Images
 
 Task Resources:
-
 - [Google Icon](https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/google_bookmarks-16.png)
 - [Google Hangouts Icon](https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/google_hangouts-16.png)
 - [Google Drive Icon](https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/google_drive-16.png)
 - [Google Plus Icon](https://cdn1.iconfinder.com/data/icons/social-shade-rounded-rects/512/google-16.png)
+
 
 1. Go through and try: <a href="http://www.w3schools.com/cssref/pr_list-style-image.asp" target="_blank">list-style-image</a>
 2. Edit the following JSBin base link utilizing above resources: <http://jsbin.com/gaqoqelezo/edit?html,css,output>
