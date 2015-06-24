@@ -96,7 +96,7 @@ Commit message: __`html-css basics 1.0 task 4 [Completed]`__
 
 Commit message: __`html-css basics 1.0 task 5 [completed]`__
 
-### Task 6: Adding Some CCS-tyle
+### Task 6: Adding Some CSS-tyle
 
 1. Go through the following:
   1. Read CSS Fonts: <http://www.w3schools.com/css/css_font.asp>
