@@ -90,11 +90,11 @@ Commit message: __`html-css basics 1.0 task 4 [Completed]`__
   4. Save all modified files
 
 #### Update Your Status:
-- [ ] completed
-- [ ] in-progress
+- [] completed
+- [X] in-progress
 - [ ] roadblock
 
-Commit message: __`html-css basics 1.0 task 5 [status]`__
+Commit message: __`html-css basics 1.0 task 5 [inprogress]`__
 
 ### Task 6: Adding Some CCS-tyle
 
