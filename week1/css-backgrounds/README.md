@@ -32,8 +32,8 @@ Commit message: __`css-backgrounds - task 1 update [completed]`__
     1. <https://css-tricks.com/examples/FullPageBackgroundImage/css-2.php> 
 
 #### Update Your Status
-- [ ] completed
+- [X] completed
 - [ ] in-progress
 - [ ] roadblock
 
-Commit message: __`css-backgrounds - set 1 update [status]`__
+Commit message: __`css-backgrounds - set 1 update [completed]`__
