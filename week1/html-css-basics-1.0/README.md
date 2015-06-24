@@ -113,11 +113,11 @@ Commit message: __`html-css basics 1.0 task 5 [completed]`__
 4. Upload your index file, one inner "tag" file, and your css file into the respective files in the 1.0 folder
 
 #### Update Your Status:
-- [ ] completed
+- [X] completed
 - [ ] in-progress
 - [ ] roadblock
 
-Commit message: __`html-css basics 1.0 task 5 [status]`__
+Commit message: __`html-css basics 1.0 task 5 [completed]`__
 
 ***Set 1 Status Update @ 9:00pm: __`html-css basics 1.0 set 2 [status]`__
 
