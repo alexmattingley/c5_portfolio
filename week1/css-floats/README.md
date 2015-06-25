@@ -1,7 +1,7 @@
 # CSS Floats
 Before you begin:
 - [X] review slides 4 & 5 in [your student folder](https://drive.google.com/drive/u/0/folders/0B6mn1BHjNxTgfklWenVXWDVva2hsRHhTdHFFejRuOTlOX0xVRGhKekt5NjJVVkctTG4zaEE)
-- [] In Learn Shay How: [Read about floats](http://learn.shayhowe.com/html-css/positioning-content/)
+- [X] In Learn Shay How: [Read about floats](http://learn.shayhowe.com/html-css/positioning-content/)
 
 ## Set 1 Items
 
@@ -13,17 +13,18 @@ Before you begin:
 ### Task 1: Floating Elements
 
 1. Edit this base JSBin link: <http://jsbin.com/xelanikaqa/edit?html,css,output>
-  1. Why do you think the text is up against the left: __[short answer here]__
-  2. Fix the list order to go from item 1-4 left to right: __[paste link]__
+  1. Why do you think the text is up against the left: Because without further direction the text is text-align: left;.
+  2. Fix the list order to go from item 1-4 left to right: <http://jsbin.com/folakizebu/edit?html,css,output>
+  ###NOTE: I am assuming here that you want the ul floated right and the elements to go left to right 1-4 simltaneiously
 2. Edit this base JSBin link: <http://jsbin.com/regotodumo/edit?html,css,output>
-  1. Add a float property to either right or left: __[paste link]__
+  1. Add a float property to either right or left: <http://jsbin.com/nufeyebuda/edit?html,css,output>
 3. Edit this base JSBin link: <http://jsbin.com/mutanumama/edit?html,css,output>
   1. Find out what property & value to add to the #footer styling to get it out from under the floated boxes
-  2. paste you link here: __[paste link]__
+  2. paste you link here: <http://jsbin.com/zuhekuwoni/edit?html,css,output>
 
 #### Update Your Status:
-- [ ] completed
-- [X] in-progress
+- [X] completed
+- [ ] in-progress
 - [ ] roadblock
 
 Commit message: __`css-floats - task 1 [status]`__  
