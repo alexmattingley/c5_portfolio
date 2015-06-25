@@ -55,55 +55,63 @@ The below describes steps to open up the command line in on a OSX ([Mac](https:/
 
 ## Add Some Files
 ### Step 1 - Open Sublime and Create a File
-	- Open your "Prep-Work" folder in Sublime
-	- You should see the file structure on the left side of your screen
-	<img src="https://github.com/Learning-Fuze/Prep-Work/blob/assets/assets/sublime/Screenshot_9.png?raw=true">
-	- Click the week 1 folder to expand it out
-	- Click the gitHub folder to expand it out
-	<img src="https://github.com/Learning-Fuze/Prep-Work/blob/assets/assets/sublime/Screenshot_10.png?raw=true">
-	- Right-click on the gitHub folder and create a new file
-	<img src="https://github.com/Learning-Fuze/Prep-Work/blob/assets/assets/sublime/Screenshot_11.png?raw=true">
-	- Save the file as "index.html"
+
+- Open your "Prep-Work" folder in Sublime
+- You should see the file structure on the left side of your screen
+<img src="https://github.com/Learning-Fuze/Prep-Work/blob/assets/assets/sublime/Screenshot_9.png?raw=true">
+- Click the week 1 folder to expand it out
+- Click the gitHub folder to expand it out
+<img src="https://github.com/Learning-Fuze/Prep-Work/blob/assets/assets/sublime/Screenshot_10.png?raw=true">
+- Right-click on the gitHub folder and create a new file
+<img src="https://github.com/Learning-Fuze/Prep-Work/blob/assets/assets/sublime/Screenshot_11.png?raw=true">
+- Save the file as "index.html"
+
 ### Step 3 - Build out a Standard HTML skeleton
-	- Build a basic skeleton 
-		- DOCTYPE tag
-		- HTML tag
-		- Head tag
-		- Body tag
-	- Make sure to include a title
+
+- Build a basic skeleton 
+	- DOCTYPE tag
+	- HTML tag
+	- Head tag
+	- Body tag
+- Make sure to include a title
+
 ### Step 4 - Add some content
-	- Add a few elements to the body of your page
-	- Can be whatever you want
-	- Don't spend a lot of time on this, it is just for demonstration purposes
-	- **Save your work when you are done**
+
+- Add a few elements to the body of your page
+- Can be whatever you want
+- Don't spend a lot of time on this, it is just for demonstration purposes
+- **Save your work when you are done**
 
 ## Add, Commit and Push
 ### Return to your console/command line window
-	- You will need to go back to your console window (See, told you we would need it again)
-		- If your console is not open, open it, make sure you are at the appropriate directory
-		- The right directory is the folder where your assignment files are located
-		- If you need help <a href="https://github.com/Learning-Fuze/git-workflow/tree/fork_clone#step-2---opening-command-line--navigating-to-your-sandbox" target="_blank">Click Here</a>
-	- To push your files to gitHub you will need to type the following commands into your command line
-		- Type `git add . ` Then hit 'Enter' *Don't forget the period*
-		- Type `git commit -m "Your Message here" ` Then hit 'Enter'
-			- The part between the " " can contain any message you would like.  This is often used to describe what was changed / added.
-		- Type `git push origin master ` Then hit 'Enter'
-		- Depending on your settings you may now be asked for a user-name then password
-			- Use your gitHub user-name and password
-	- Your files are now updated on gitHub!
-	- You can now view all of your updated files on gitHub under your repo
-	- It is recommended that you push to gitHub frequently not just when you have completed your project
-		- Pushing frequently gives you a backup of your files on gitHub and allows you to easily revert back to previous versions
-		- It is a good habit to get into
+
+- You will need to go back to your console window (See, told you we would need it again)
+	- If your console is not open, open it, make sure you are at the appropriate directory
+	- The right directory is the folder where your assignment files are located
+	- If you need help <a href="https://github.com/Learning-Fuze/git-workflow/tree/fork_clone#step-2---opening-command-line--navigating-to-your-sandbox" target="_blank">Click Here</a>
+- To push your files to gitHub you will need to type the following commands into your command line
+	- Type `git add . ` Then hit 'Enter' *Don't forget the period*
+	- Type `git commit -m "Your Message here" ` Then hit 'Enter'
+		- The part between the " " can contain any message you would like.  This is often used to describe what was changed / added.
+	- Type `git push origin master ` Then hit 'Enter'
+	- Depending on your settings you may now be asked for a user-name then password
+		- Use your gitHub user-name and password
+- Your files are now updated on gitHub!
+- You can now view all of your updated files on gitHub under your repo
+- It is recommended that you push to gitHub frequently not just when you have completed your project
+	- Pushing frequently gives you a backup of your files on gitHub and allows you to easily revert back to previous versions
+	- It is a good habit to get into
 
 ## Create a CSS File
 ### Return to Sublime
-	- Create a CSS file in the gitHub Folder
-	- Add some style to your page
-	- Once again, DON'T spend a lot of time on this
-	- **Save your work**
+
+- Create a CSS file in the gitHub Folder
+- Add some style to your page
+- Once again, DON'T spend a lot of time on this
+- **Save your work**
 
 ## Add, Commit and Push (Again)
-	- Follow the steps from above to push your new CSS file to gitHub
-	- After you have pushed your files go to gitHub and verify that everything worked
+- Follow the steps from above to push your new CSS file to gitHub
+- After you have pushed your files go to gitHub and verify that everything worked
+
 #### For a more in-depth version of the gitHub work flow <a href="https://github.com/Learning-Fuze/git-workflow" target="_blank">CLICK HERE</a>
