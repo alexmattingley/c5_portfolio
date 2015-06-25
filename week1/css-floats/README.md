@@ -1,7 +1,7 @@
 # CSS Floats
 Before you begin:
-- [ ] review slides 4 & 5 in [your student folder](https://drive.google.com/drive/u/0/folders/0B6mn1BHjNxTgfklWenVXWDVva2hsRHhTdHFFejRuOTlOX0xVRGhKekt5NjJVVkctTG4zaEE)
-- [ ] In Learn Shay How: [Read about floats](http://learn.shayhowe.com/html-css/positioning-content/)
+- [X] review slides 4 & 5 in [your student folder](https://drive.google.com/drive/u/0/folders/0B6mn1BHjNxTgfklWenVXWDVva2hsRHhTdHFFejRuOTlOX0xVRGhKekt5NjJVVkctTG4zaEE)
+- [] In Learn Shay How: [Read about floats](http://learn.shayhowe.com/html-css/positioning-content/)
 
 ## Set 1 Items
 
