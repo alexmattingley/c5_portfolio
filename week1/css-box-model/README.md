@@ -16,7 +16,7 @@
    1. Without changing any width/height dimensions in the 3 columns, remove 1 property that will align the 3 columns
    2. AFTER successfuly aligning columns, uncomment the paragraphs inside center & right columns
    3. Why did this happen: It has to do with the changing width's of the boxes when you include the paragraphs.Its basically kicking the boxes that don't fit down to the next block. The interesting thing is that if you have the p tags by themselves without the content inside of them, it doesn't kick the content into the next block. You need to add in the width of the actual content for the effect to take place.
-   4. There is a commented property above the columns that can fix this, place it in the correct column and paste your final link here: <http://jsbin.com/yivukafuxe/1/edit?html,css,output>
+   4. There is a commented property above the columns that can fix this, place it in the correct column and paste your final link here: <http://jsbin.com/bizegomewa/edit?html,css,output>
 
 #### Update Your Status
 - [X] completed
