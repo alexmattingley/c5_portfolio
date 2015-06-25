@@ -82,6 +82,7 @@ Today's sets will be officially rated
 
 ## Thursday
 
+__*Set 1:*__ 
 - CSS Layout Modes
     -  Blocks & Document Flow
     -  CSS Box Model
@@ -97,6 +98,7 @@ Today's sets will be officially rated
 2. Folders updated:
   - [week1/css-floats](https://github.com/Learning-Fuze/Prep-Work/tree/master/week1/css-floats)
   - set 1, 2 tasks, 1 challenge task
+  - set 2 to be published later today
 3. Proceed to work on items
   1. Set 1 status update message deadline: 1:00pm
   2. Set 2 status update message deadline: 9:00pm
