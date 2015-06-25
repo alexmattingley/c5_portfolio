@@ -58,12 +58,12 @@ The below describes steps to open up the command line in on a OSX ([Mac](https:/
 
 - Open your "Prep-Work" folder in Sublime
 - You should see the file structure on the left side of your screen
-<img src="https://github.com/Learning-Fuze/Prep-Work/blob/assets/assets/sublime/Screenshot_9.png?raw=true">
+<br><img src="https://github.com/Learning-Fuze/Prep-Work/blob/assets/assets/sublime/Screenshot_9.png?raw=true" height="250px"><br>
 - Click the week 1 folder to expand it out
 - Click the gitHub folder to expand it out
-<img src="https://github.com/Learning-Fuze/Prep-Work/blob/assets/assets/sublime/Screenshot_10.png?raw=true">
+<br><img src="https://github.com/Learning-Fuze/Prep-Work/blob/assets/assets/sublime/Screenshot_10.png?raw=true" height="250px"><br>
 - Right-click on the gitHub folder and create a new file
-<img src="https://github.com/Learning-Fuze/Prep-Work/blob/assets/assets/sublime/Screenshot_11.png?raw=true">
+<br><img src="https://github.com/Learning-Fuze/Prep-Work/blob/assets/assets/sublime/Screenshot_11.png?raw=true" height="250px"><br>
 - Save the file as "index.html"
 
 ### Step 3 - Build out a Standard HTML skeleton
