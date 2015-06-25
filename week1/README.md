@@ -72,9 +72,10 @@ Today's sets will be officially rated
 
 1. Create a pull request to update/merge your repo with the new files 
 2. Folders updated:
+  - [week1/css-backgrounds](https://github.com/Learning-Fuze/Prep-Work/tree/master/week1/css-backgrounds)
   - [week1/css-box-model](https://github.com/Learning-Fuze/Prep-Work/tree/master/week1/css-box-model)
-  - 1 set, 2 tasks
-
+  - 2 set, 4 tasks
 3. Proceed to work on items
+  1. Set 1 status update message deadline: 1:00pm
   2. Set 2 status update message deadline: 9:00pm
   3. __Pull Request #1 Deadline: Thursday 6/25 10:00am__ 
