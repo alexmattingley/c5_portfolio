@@ -123,3 +123,5 @@ Commit message: __`html-css basics 1.0 task 5 [completed]`__
 
 - __Pull Request #1 Deadline: Wednesday @ 10:00am__
 - PR #1 Suggested Title Message: __`HTML-CSS Basics 1.0 Update [pull request #1]`__
+- PR #2 Status Update- Complete and corrected.
+- Alex Mattingley PR#2 [HTML-CSS Basics 1.0 Update]
