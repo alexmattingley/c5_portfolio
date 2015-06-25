@@ -18,6 +18,12 @@
    3. Why did this happen: ??
    4. There is a commented property above the columns that can fix this, place it in the right column and paste your final link here: ??
 
+#### Update Your Status
+- [ ] completed
+- [ ] in-progress
+- [ ] roadblock
+
+Commit message: __`Student Name - css-backgrounds - Task 1 [status]`__
 
 ### Task 2: Padding, Borders, & Margins
 
@@ -34,3 +40,9 @@
   1. Make it resemble the following as closely as possible:
   2.![layout](https://cloud.githubusercontent.com/assets/6971908/8344680/9f439fba-1a99-11e5-8f10-8664f02cc07a.png)
 
+#### Update Your Status
+- [ ] completed
+- [ ] in-progress
+- [ ] roadblock
+
+Commit message: __`Student Name - css-backgrounds - Task 2 [status]`__
