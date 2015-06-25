@@ -23,7 +23,7 @@ Before you begin:
 
 #### Update Your Status:
 - [ ] completed
-- [ ] in-progress
+- [X] in-progress
 - [ ] roadblock
 
 Commit message: __`css-floats - task 1 [status]`__  
