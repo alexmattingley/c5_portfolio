@@ -49,6 +49,8 @@ Commit message: __`css-floats - task 1 [complete]`__
 
 Can you recreate the image below using box rules (padding, borders, margins) AND Floats??
 
+Of course I can ha: <http://jsbin.com/pojuhuhoxi/edit?html,css,output>
+
 ![floating plus box image](https://cloud.githubusercontent.com/assets/6971908/8358585/e03dabba-1b15-11e5-9300-a997a92dd886.png)
 
 Commit message: __`Student Name CSS Floats Challenge`__
