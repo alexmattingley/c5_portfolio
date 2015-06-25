@@ -84,9 +84,9 @@ Today's sets will be officially rated
 
 __*Set 1: CSS Floats*__ 
 - CSS Layout Modes
-    -  Blocks & Document Flow
-    -  CSS Box Model
-    -  CSS Floats
+    -  Blocks & Document Flow Review
+    -  CSS Box Model Review
+    -  CSS Floats Intro
       -  Float Rules
       -  Float Navigation
       -  Float Multi-Column Laout
