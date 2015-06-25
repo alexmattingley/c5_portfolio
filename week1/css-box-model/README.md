@@ -41,11 +41,11 @@ Commit message: __`Student Name - css-box-model - Task 1 [completed]`__
   2.![layout](https://cloud.githubusercontent.com/assets/6971908/8344680/9f439fba-1a99-11e5-8f10-8664f02cc07a.png)
 
 #### Update Your Status
-- [ ] completed
-- [X] in-progress
+- [X] completed
+- [ ] in-progress
 - [ ] roadblock
 
-Commit message: __`Student Name - css-box-model - Task 2 [in-progress]`__
+Commit message: __`Student Name - css-box-model - Task 2 [complete]`__
 
 - __`PR#1 Request Deadline: Thursday 6/25 @ 10:00am`__
 - PR #1 Suggested Title Message: __`Student Name - css-backgrounds / css-box-model update [PR#1]`__
