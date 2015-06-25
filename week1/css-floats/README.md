@@ -38,11 +38,11 @@ Commit message: __`css-floats - task 1 [status]`__
 ![float layout](https://cloud.githubusercontent.com/assets/6971908/8358137/842c8708-1b13-11e5-9f14-b2e4257e8fe5.png)
 
 #### Update Your Status:
-- [ ] completed
+- [X] completed
 - [ ] in-progress
 - [ ] roadblock
 
-Commit message: __`css-floats - task 1 [status]`__  
+Commit message: __`css-floats - task 1 [complete]`__  
 (If completed with this last set 1 task before 1:00pm, make 2 commit messages, one using the daily status update messaging) 
   
 ### Challenge Task!
