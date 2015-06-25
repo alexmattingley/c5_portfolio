@@ -36,7 +36,7 @@ Commit message: __`Student Name - css-box-model - Task 1 [completed]`__
       2. You may edit `#one`, and `#three`, and may only use `margin` properties
       3.![layout](https://cloud.githubusercontent.com/assets/6971908/8344473/1b636db2-1a97-11e5-91bb-b4c7e4850041.png)
    2. Paste your JSBin link here: <http://jsbin.com/muzezipadi/edit?html,css,output>
-3. Edit This JSBin base link: <http://jsbin.com/kuhibebune/edit?html,css,output>
+3. Edit This JSBin base link: <http://jsbin.com/vifipohawa/edit?html,css,output>
   1. Make it resemble the following as closely as possible:
   2.![layout](https://cloud.githubusercontent.com/assets/6971908/8344680/9f439fba-1a99-11e5-8f10-8664f02cc07a.png)
 
