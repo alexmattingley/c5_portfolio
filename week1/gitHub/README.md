@@ -54,7 +54,6 @@ The below describes steps to open up the command line in on a OSX ([Mac](https:/
 #### Congratulations you have cloned your Github Repository
 
 ## Add Some Files
-
 ### Step 1 - Open Sublime and Create a File
 	- Open your "Prep-Work" folder in Sublime
 	- You should see the file structure on the left side of your screen
@@ -79,7 +78,6 @@ The below describes steps to open up the command line in on a OSX ([Mac](https:/
 	- **Save your work when you are done**
 
 ## Add, Commit and Push
-
 ### Return to your console/command line window
 	- You will need to go back to your console window (See, told you we would need it again)
 		- If your console is not open, open it, make sure you are at the appropriate directory
@@ -99,7 +97,6 @@ The below describes steps to open up the command line in on a OSX ([Mac](https:/
 		- It is a good habit to get into
 
 ## Create a CSS File
-
 ### Return to Sublime
 	- Create a CSS file in the gitHub Folder
 	- Add some style to your page
@@ -109,5 +106,4 @@ The below describes steps to open up the command line in on a OSX ([Mac](https:/
 ## Add, Commit and Push (Again)
 	- Follow the steps from above to push your new CSS file to gitHub
 	- After you have pushed your files go to gitHub and verify that everything worked
-
 #### For a more in-depth version of the gitHub work flow <a href="https://github.com/Learning-Fuze/git-workflow" target="_blank">CLICK HERE</a>
