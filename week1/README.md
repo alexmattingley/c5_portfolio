@@ -50,7 +50,7 @@ Today's sets will be officially rated
 1. Create a pull request to update/merge your repo with the new files 
 2. Folders updated:
   - [week1/html-css-basics-1.0](https://github.com/Learning-Fuze/Prep-Work/tree/master/week1/html-css-basics-1.0)
-  - 2 Sets, 6 Tasks [README File](https://github.com/Learning-Fuze/Prep-Work/blob/master/week1/html-css-basics-1.0/README.md)
+  - 2 Sets, 6 Tasks [README File]()
 3. Proceed to work on Set 2 Items
   1. Set 1 status update message deadline: 1:00pm
   2. Set 2 Status update message deadline: 9:00pm
@@ -59,14 +59,12 @@ Today's sets will be officially rated
 ## Wednesday
 
 - Intro to CSS (Continued):
-    -  CSS Backgrounds
-    -  Display Properties
-    -  Dimensions: width/height
-    -  px, %'s, em's
--  CSS Box Model
-  -  Padding
-  -  Border
-  -  Margin
+    -  Backgrounds
+    -  Styling Forms (Live Video)
+-  CSS & The Box Model:
+    -  Padding, Borders, & Margin
+    -  Dimensions, width & height
+    -  Dimension values: pixels, percentages, & em's
 
 #### Assignment
 
@@ -74,11 +72,10 @@ Today's sets will be officially rated
 2. Folders updated:
   - [week1/css-backgrounds](https://github.com/Learning-Fuze/Prep-Work/tree/master/week1/css-backgrounds)
   - [week1/css-box-model](https://github.com/Learning-Fuze/Prep-Work/tree/master/week1/css-box-model)
-  - 2 set, 4 tasks
 3. Proceed to work on items
   1. Set 1 status update message deadline: 1:00pm
-  2. Set 2 status update message deadline: 9:00pm
-  3. __Pull Request #1 Deadline: Thursday 6/25 10:00am__ 
+  2. Set 2 Status update message deadline: 9:00pm
+  3. __Pull Request #1 Deadline: Deadline 10:00am__ 
 
 ## Thursday
 
@@ -92,14 +89,26 @@ __*Set 1: CSS Floats*__
       -  Float Multi-Column Laout
       -  Challenge Task!
 
+__*Set 2: Introducing Forms & Git*__
+
+- Complete your Set 1 tasks & spend time tinkering
+- Read [Learn Shay How's Building Forms](http://learn.shayhowe.com/)
+- Start practicing [Basic Git Commands - Tutorial](https://try.github.io/levels/1/challenges/1)
+- If you have time/curious read through the first 4 pages of [Getting started with Git 1 - 1.4](http://git-scm.com/book/en/v2)
+
 #### Assignment
 
 1. Create a pull request to update/merge your repo with the new files 
 2. Folders updated:
   - [week1/css-floats](https://github.com/Learning-Fuze/Prep-Work/tree/master/week1/css-floats)
+  - [week1/README.md](https://github.com/Learning-Fuze/Prep-Work/edit/master/week1/README.md)
   - set 1, 2 tasks, 1 challenge task
-  - set 2 to be published later today
+  - set 2, reading/practice & catch-up
 3. Proceed to work on items
   1. Set 1 status update message deadline: 1:00pm
-  2. Set 2 status update message deadline: 9:00pm
+  2. Set 2 (no set 2 status update today)
   3. __Pull Request #1 Deadline: Friday 6/25 10:00am__ 
+
+
+
+
