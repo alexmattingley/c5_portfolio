@@ -101,7 +101,7 @@ __*Set 2: Introducing Forms & Git*__
 1. Create a pull request to update/merge your repo with the new files 
 2. Folders updated:
   - [week1/css-floats](https://github.com/Learning-Fuze/Prep-Work/tree/master/week1/css-floats)
-  - [week1/README.md](https://github.com/Learning-Fuze/Prep-Work/edit/master/week1/README.md)
+  - week1/README.md
   - set 1, 2 tasks, 1 challenge task
   - set 2, reading/practice & catch-up
 3. Proceed to work on items
