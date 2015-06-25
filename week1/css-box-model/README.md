@@ -11,7 +11,7 @@
 
 1. Edit this JSBin base link: <http://jsbin.com/fimijotepi/edit?html,css,output>
     1. Using the `display` property, align the 3 columns horizontally.
-   2. Paste JSBin link: ??
+   2. Paste JSBin link: <http://jsbin.com/yazifuwile/edit?html,css,output>
 2. Edit this JSBin base link: <http://jsbin.com/gifutasese/edit?html,css,output>
    1. Without changing any width/height dimensions in the 3 columns, remove 1 property that will align the 3 columns
    2. AFTER successfuly aligning columns, uncomment the paragraphs inside center & right columns
