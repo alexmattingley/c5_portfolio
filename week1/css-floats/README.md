@@ -13,13 +13,13 @@ Before you begin:
 ### Task 1: Floating Elements
 
 1. Edit this base JSBin link: <http://jsbin.com/xelanikaqa/edit?html,css,output>
-  1. Why do you think the text is up against the left: [short answer here]
-  2. Fix the list order to go from item 1-4 left to right: [paste link]
+  1. Why do you think the text is up against the left: __[short answer here]__
+  2. Fix the list order to go from item 1-4 left to right: __[paste link]__
 2. Edit this base JSBin link: <http://jsbin.com/regotodumo/edit?html,css,output>
-  1. Add a float property to either right or left: [paste link]
+  1. Add a float property to either right or left: __[paste link]__
 3. Edit this base JSBin link: <http://jsbin.com/mutanumama/edit?html,css,output>
   1. Find out what property & value to add to the #footer styling to get it out from under the floated boxes
-  2. paste you link here: [paste link]
+  2. paste you link here: __[paste link]__
 
 #### Update Your Status:
 - [ ] completed
