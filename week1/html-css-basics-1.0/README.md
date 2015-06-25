@@ -7,7 +7,7 @@ Before you get started:
 
 ### Task 1: Inline & Block Level 
 1. Edit the following JSBin base link (HTML only): <http://jsbin.com/xejogesahe/edit?html,output>
-2.  Add your modified JSBin base link here: <http://jsbin.com/badeqaperi/edit?html,output>
+2.  Add your modified JSBin base link here: <http://jsbin.com/zayewaqixo/edit?html,output>
 
 #### Update Your Status:
 - [X] completed
