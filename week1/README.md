@@ -82,7 +82,7 @@ Today's sets will be officially rated
 
 ## Thursday
 
-__*Set 1:*__ 
+__*Set 1: CSS Floats*__ 
 - CSS Layout Modes
     -  Blocks & Document Flow
     -  CSS Box Model
