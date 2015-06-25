@@ -20,10 +20,10 @@
 
 #### Update Your Status
 - [ ] completed
-- [ ] in-progress
+- [X] in-progress
 - [ ] roadblock
 
-Commit message: __`Student Name - css-box-model - Task 1 [status]`__
+Commit message: __`Student Name - css-box-model - Task 1 [in-progress]`__
 
 ### Task 2: Padding, Borders, & Margins
 
