@@ -77,4 +77,4 @@ Today's sets will be officially rated
 
 3. Proceed to work on items
   2. Set 2 status update message deadline: 9:00pm
-  3. __Pull Request #1 Deadline: Deadline 10:00am__ 
+  3. __Pull Request #1 Deadline: Thursday 6/25 10:00am__ 
