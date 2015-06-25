@@ -79,3 +79,27 @@ Today's sets will be officially rated
   1. Set 1 status update message deadline: 1:00pm
   2. Set 2 status update message deadline: 9:00pm
   3. __Pull Request #1 Deadline: Thursday 6/25 10:00am__ 
+
+## Thursday
+
+__*Set 1: CSS Floats*__ 
+- CSS Layout Modes
+    -  Blocks & Document Flow Review
+    -  CSS Box Model Review
+    -  CSS Floats Intro
+      -  Float Rules
+      -  Float Navigation
+      -  Float Multi-Column Laout
+      -  Challenge Task!
+
+#### Assignment
+
+1. Create a pull request to update/merge your repo with the new files 
+2. Folders updated:
+  - [week1/css-floats](https://github.com/Learning-Fuze/Prep-Work/tree/master/week1/css-floats)
+  - set 1, 2 tasks, 1 challenge task
+  - set 2 to be published later today
+3. Proceed to work on items
+  1. Set 1 status update message deadline: 1:00pm
+  2. Set 2 status update message deadline: 9:00pm
+  3. __Pull Request #1 Deadline: Friday 6/25 10:00am__ 
