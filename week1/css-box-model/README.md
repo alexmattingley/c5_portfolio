@@ -46,3 +46,6 @@ Commit message: __`Student Name - css-box-model - Task 1 [status]`__
 - [ ] roadblock
 
 Commit message: __`Student Name - css-box-model - Task 2 [status]`__
+
+- __`PR#1 Request Deadline: Thursday 6/25 @ 10:00am`__
+- PR #1 Suggested Title Message: __`Student Name - css-backgrounds / css-box-model update [PR#1]`__
