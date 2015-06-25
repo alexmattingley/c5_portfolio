@@ -15,15 +15,15 @@
 2. Edit this JSBin base link: <http://jsbin.com/gifutasese/edit?html,css,output>
    1. Without changing any width/height dimensions in the 3 columns, remove 1 property that will align the 3 columns
    2. AFTER successfuly aligning columns, uncomment the paragraphs inside center & right columns
-   3. Why did this happen: ??
-   4. There is a commented property above the columns that can fix this, place it in the right column and paste your final link here: ??
+   3. Why did this happen: It has to do with the changing width's of the boxes when you include the paragraphs.Its basically kicking the boxes that don't fit down to the next block. The interesting thing is that if you have the p tags by themselves without the content inside of them, it doesn't kick the content into the next block. You need to add in the width of the actual content for the effect to take place.
+   4. There is a commented property above the columns that can fix this, place it in the correct column and paste your final link here: <http://jsbin.com/yivukafuxe/1/edit?html,css,output>
 
 #### Update Your Status
-- [ ] completed
-- [X] in-progress
+- [X] completed
+- [ ] in-progress
 - [ ] roadblock
 
-Commit message: __`Student Name - css-box-model - Task 1 [in-progress]`__
+Commit message: __`Student Name - css-box-model - Task 1 [completed]`__
 
 ### Task 2: Padding, Borders, & Margins
 
