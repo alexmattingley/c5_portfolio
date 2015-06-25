@@ -29,7 +29,7 @@ Commit message: __`Student Name - css-box-model - Task 1 [completed]`__
 
 1. Edit This JSBin base link: <http://jsbin.com/rarocugaso/edit?html,css,output>
    1. Using only `margin-left` or `margin-right` inside the list items, match this layout: ![layout](https://cloud.githubusercontent.com/assets/6971908/8344341/2e4516f8-1a95-11e5-890d-3fe86ba7f6e2.png)
-   2. Paste your JSBin link here: ??
+   2. Paste your JSBin link here: <http://jsbin.com/cozapenaqo/edit?html,css,output>
 2.Edit This JSBin base link: <http://jsbin.com/rarocugaso/edit?html,css,output>
    1. Match the following layout by only editing the following 3 declarations:
       1. You may edit `.container`, and may only use `padding` properties
