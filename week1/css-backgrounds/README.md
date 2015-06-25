@@ -15,14 +15,14 @@ Task Resources:
 
 1. Go through and try: <a href="http://www.w3schools.com/cssref/pr_list-style-image.asp" target="_blank">list-style-image</a>
 2. Edit the following JSBin base link utilizing above resources: <http://jsbin.com/gaqoqelezo/edit?html,css,output>
-3. Add your modified JSBin base link here: ??
+3. Add your modified JSBin base link here: <http://jsbin.com/feguyowexi/1/edit?html,css,output>
 
 #### Update Your Status
 - [ ] completed
 - [ ] in-progress
 - [ ] roadblock
 
-Commit message: __`css-backgrounds - set 1 update [status]`__
+Commit message: __`css-backgrounds - set 1 update [completed]`__
 
 ### Task 2: Home Page With Background Image
 
@@ -36,4 +36,4 @@ Commit message: __`css-backgrounds - set 1 update [status]`__
 - [ ] in-progress
 - [ ] roadblock
 
-Commit message: __`css-backgrounds - set 1 update [status]`__
+Commit message: __`css-backgrounds - set 1 update [completed]`__
