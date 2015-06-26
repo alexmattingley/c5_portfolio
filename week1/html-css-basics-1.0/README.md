@@ -7,7 +7,7 @@ Before you get started:
 
 ### Task 1: Inline & Block Level 
 1. Edit the following JSBin base link (HTML only): <http://jsbin.com/xejogesahe/edit?html,output>
-2.  Add your modified JSBin base link here: <http://jsbin.com/badeqaperi/edit?html,output>
+2.  Add your modified JSBin base link here: <http://jsbin.com/zayewaqixo/edit?html,output>
 
 #### Update Your Status:
 - [X] completed
@@ -21,9 +21,9 @@ Commit message: __`html-css basics 1.0 task 1 [completed]`__
   1. Read HTML Forms: <http://www.w3schools.com/html/html_forms.asp>
   2. Read How To Add CSS: <http://www.w3schools.com/css/css_howto.asp>
 2. Edit the following JSBin base link: <http://jsbin.com/dutarojoku/edit?html,css,output>
-  1. Add your modified JSBin link here: <http://jsbin.com/tituyobazi/edit?html,css,output>
+  1. Add your modified JSBin link here: <http://jsbin.com/xukibupuza/edit?html,css,output>
 3.  Edit the following JSBin base link: <http://jsbin.com/pixonizela/edit?html,css,output>
-  1. Add your modified JSBin link here: <http://jsbin.com/duyorozofi/edit?html,css,output>
+  1. Add your modified JSBin link here: <http://jsbin.com/yehimakuha/edit?html,css,output>
 4. Update your basics 0.5 project:
   1. Create an __`html-forms.html`__ file locally
   2. In the same file, update your descriptions and table for another 3-5 form control elements
@@ -42,14 +42,14 @@ Commit message: __`html-css basics 1.0 task 2 [completed]`__
 1. Go through the following:
   1. Read Site Point's Article: <http://reference.sitepoint.com/css/replacedelements>
   2. Read Mozilla's Replaced Elements Reference: <https://developer.mozilla.org/en-US/docs/Web/CSS/Replaced_element>
-2. Create a JSBin link adding at least 5 examples of replaced elements: ??
+2. Create a JSBin link adding at least 5 examples of replaced elements: http://jsbin.com/duyorozofi/edit?html,css,output
 
 #### Update Your Status:
-- [ ] completed
+- [X] completed
 - [ ] in-progress
 - [ ] roadblock
 
-Commit message: __`html-css basics 1.0 task 3 [status]`__  
+Commit message: __`html-css basics 1.0 task 3 [COMPLETED]`__  
 
 ***Set 1 Status Update @ 1:00pm: __`html-css basics 1.0 set 1 [status]`__
 
@@ -62,7 +62,7 @@ Commit message: __`html-css basics 1.0 task 3 [status]`__
   2. Read How To Add CSS: <http://www.w3schools.com/css/css_howto.asp>
   3. Read CSS Syntax: <http://www.w3schools.com/css/css_syntax.asp>
 2. Edit this base JSBin link: <a href="http://jsbin.com/yapijogohu/edit?html,css,output" target="_blank">Getting Started With CSS</a>
-  1. Add your custom JSBin url here: ??
+  1. Add your custom JSBin url here: <http://jsbin.com/vujucuyere/edit?html,css,output>
 3. Create a new __css-intro__ document
   1. In your __`CSS-Basics`__ folder, create a document __`css-intro.html`__
   2. Click into your JSBin HTML toggle screen:
@@ -71,11 +71,11 @@ Commit message: __`html-css basics 1.0 task 3 [status]`__
     3. save file
 
 #### Update Your Status:
-- [ ] completed
+- [X] completed
 - [ ] in-progress
 - [ ] roadblock
 
-Commit message: __`html-css basics 1.0 task 4 [status]`__
+Commit message: __`html-css basics 1.0 task 4 [Completed]`__
 
 ### Task 5: Setting Up HTML/CSS Basics 1.0
 
@@ -90,13 +90,13 @@ Commit message: __`html-css basics 1.0 task 4 [status]`__
   4. Save all modified files
 
 #### Update Your Status:
-- [ ] completed
+- [X] completed
 - [ ] in-progress
 - [ ] roadblock
 
-Commit message: __`html-css basics 1.0 task 5 [status]`__
+Commit message: __`html-css basics 1.0 task 5 [completed]`__
 
-### Task 6: Adding Some CCS-tyle
+### Task 6: Adding Some CSS-tyle
 
 1. Go through the following:
   1. Read CSS Fonts: <http://www.w3schools.com/css/css_font.asp>
@@ -113,13 +113,15 @@ Commit message: __`html-css basics 1.0 task 5 [status]`__
 4. Upload your index file, one inner "tag" file, and your css file into the respective files in the 1.0 folder
 
 #### Update Your Status:
-- [ ] completed
+- [X] completed
 - [ ] in-progress
 - [ ] roadblock
 
-Commit message: __`html-css basics 1.0 task 5 [status]`__
+Commit message: __`html-css basics 1.0 task 5 [completed]`__
 
 ***Set 1 Status Update @ 9:00pm: __`html-css basics 1.0 set 2 [status]`__
 
 - __Pull Request #1 Deadline: Wednesday @ 10:00am__
 - PR #1 Suggested Title Message: __`HTML-CSS Basics 1.0 Update [pull request #1]`__
+- PR #2 Status Update- Complete and corrected.
+- Alex Mattingley PR#2 [HTML-CSS Basics 1.0 Update]
