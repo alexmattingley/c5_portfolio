@@ -17,7 +17,7 @@
 	- Create a file named "tags.html"
 		- Copy the code from <a href="https://github.com/Learning-Fuze/Prep-Work/blob/scbowler/week1/html-css-basics-0.5/tags.html" target="_blank">HERE</a> and paste it into you "tags.html" file
 
-Status update commit message: __`html-css basics task 1 [status]`__
+Status update commit message: __`html-css basics task 1 [completed]`__
 
 ### Task 2
 
@@ -39,7 +39,7 @@ Status update commit message: __`html-css basics task 1 [status]`__
 	- Update the "tags" page table with the information for each tag/element
 4. When completed copy your files to GitHub
 	- Copy and paste your code into the appropriate files on your GitHub account
-Status update commit message: __`html-css basics task 1 [status]`__
+Status update commit message: __`html-css basics task 1 [Completed]`__
 
 1. Update status/commit deadline
 	- 9:00 pm

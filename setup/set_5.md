@@ -13,7 +13,13 @@ For this task you will need to create a new JSBin to add your completed code for
 -  <http://www.w3schools.com/html/exercise.asp?filename=exercise_formatting4>
 -  <http://www.w3schools.com/html/exercise.asp?filename=exercise_formatting5>
 
-Submit your 5 JSBin URL links here: ??
+Submit your 5 JSBin URL links here:
+
+- <http://jsbin.com/liyusobomu/edit?html,output>
+- <http://jsbin.com/ritilabeda/edit?html,output>
+- <http://jsbin.com/kuxufeqopi/edit?html,output>
+- <http://jsbin.com/socozacile/edit?html,output>
+- <http://jsbin.com/bifucelisu/edit?html,output>
 
 #### Update Your Status:
 - completed

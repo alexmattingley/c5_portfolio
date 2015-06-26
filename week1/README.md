@@ -109,6 +109,22 @@ __*Set 2: Introducing Forms & Git*__
   2. Set 2 (no set 2 status update today)
   3. __Pull Request #1 Deadline: Friday 6/25 10:00am__ 
 
+## Friday
+__*Set 1: Creating & Styling Forms*__
+- Form Widgets
+- Form Controls
+- Styling Forms
 
+#### Assignment
+
+1. Create a pull request to update/merge your repo with the new files 
+2. Folders updated:
+  - [week1/forms](https://github.com/Learning-Fuze/Prep-Work/tree/master/week1/forms)
+  - week1/README.md
+  - Set 1, 3 tasks
+3. Proceed to work on items
+  1. Set 1 status update message deadline: 1:00pm
+  2. Set 2 [To Be Released Afte Video Session]
+  3. __Pull Request #1 Deadline: Sunday 8:00pm__ 
 
 
