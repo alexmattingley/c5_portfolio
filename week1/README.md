@@ -110,10 +110,11 @@ __*Set 2: Introducing Forms & Git*__
   3. __Pull Request #1 Deadline: Friday 6/25 10:00am__ 
 
 ## Friday
-
-__*Set 1: Creating & Styling Forms*__ 
+__*Set 1: Creating & Styling Forms*__
 - Form Widgets
+- Form Controls
 - Styling Forms
+
 
 1. Create a pull request to update/merge your repo with the new files 
 2. Folders updated:
