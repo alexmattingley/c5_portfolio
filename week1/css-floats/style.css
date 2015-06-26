@@ -1,0 +1,16 @@
+/*Responsive Design/development for kicks and giggles*/
+
+.product-list {
+	width: 95%;
+	margin: auto;
+}
+
+
+@media screen and (min-width: 768px) {
+	
+	.product {
+		float: left;
+		width: 25%;
+		margin: 0px 4%;
+	}
+}
