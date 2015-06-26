@@ -1,0 +1,60 @@
+form {
+  
+  height: 480px;
+  width: 590px;
+  box-sizing: border-box;
+  #border-radius
+}
+
+.form-title {
+  height: 70px;
+  background:  #9ec45f;
+  padding-top: 20px;
+  color: rgb(255, 255, 255);
+}
+
+.form-title h1 {
+  margin:0;
+  padding:0;
+  margin-left: 40px;
+}
+
+.form-title p {
+   margin:0;
+  padding:0;
+  margin-left: 40px;
+}
+
+.form-fields {
+  text-align: center;
+}
+
+input, textarea, select, option {
+  box-sizing: border-box;
+   -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  width: 440px;
+}
+input, select, option {
+  height: 25px;
+}
+
+textarea {
+  height: 90px;
+}
+label {
+  display:block;
+  
+}
+button {
+  width: 60px;
+  height: 30px;
+  background: #9ec45f;
+  border: none;
+  border-radius: 3px;
+  color: white;
+  text-transform: uppercase;
+  cursor: pointer;
+  
+  
+}
