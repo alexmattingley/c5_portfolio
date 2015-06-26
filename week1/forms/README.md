@@ -1,7 +1,7 @@
 # HTML Forms
 Use the following references to help you in creating the forms:
-- [ ] <a href="http://www.w3schools.com/html/html_forms.asp" target="_blank">www.w3schools.com/html/html_forms.asp</a>
-- [ ] <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms/Styling_HTML_forms">Mozilla's Styling Forms Guide</a>
+- [X] <a href="http://www.w3schools.com/html/html_forms.asp" target="_blank">www.w3schools.com/html/html_forms.asp</a>
+- [X] <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms/Styling_HTML_forms">Mozilla's Styling Forms Guide</a>
 
 ## Set 1: Forms 1-3
 
@@ -36,7 +36,7 @@ Use the following references to help you in creating the forms:
 
 #### Update Your Status:
 - [ ] completed
-- [ ] in-progress
+- [X] in-progress
 - [ ] roadblock
 
 Commit message: __`forms - task 1 [status]`__  
