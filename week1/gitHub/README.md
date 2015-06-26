@@ -1,5 +1,3 @@
-Test commit for Science!
-
 # gitHub
 
 We will be covering some of the basic gitHub functionality including:
