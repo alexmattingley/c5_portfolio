@@ -33,7 +33,7 @@ form {
 
 .form-fields {
   text-align: left;
-  width: 90%;
+  width: 85%;
   margin: 20px auto;
 }
 
@@ -56,6 +56,7 @@ input, textarea {
 	color: #f3f3f3;
 	font-size: 16px;
 	padding: 5px;
+	border: 1px solid lightgrey;
 }
 
 select {
@@ -63,6 +64,7 @@ select {
 	border-radius: 0px;
 	font-size: 16px;
 }
+
 
 style
 
