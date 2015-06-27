@@ -72,7 +72,7 @@ Commit message: __`forms - task 1 [status]`__
 - [ ] in-progress
 - [ ] roadblock
 
-Commit message: __`forms - task 2 [status]`__  
+Commit message: __`forms - task 2 [complete]`__  
 
 ### Task 3: Create & Style Form 3
 
