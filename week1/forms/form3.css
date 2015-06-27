@@ -1,0 +1,54 @@
+form {
+	background-color: #b1393a;
+	color: #f1f1f1;
+	width: 1024px;
+	padding: 40px 0px;
+}
+.button-cont {
+	float: right;
+	width: 26%;
+	margin-top: 15px;
+}
+
+button {
+	background: #881817;
+	color: #f1f1f1;
+	border: none;
+	padding: 10px 40px;
+}
+
+.form-title h1 {
+	text-align: center;
+	margin-top: 0px;
+}
+
+.form-fields {
+	max-width: 90%;
+	margin: auto;
+}
+ol {
+	padding-left: 17px;
+}
+
+.bigger-box input {
+	width: 400px;
+}
+.smaller-box input {
+	width: 200px;
+}
+div.indiv-fields {
+	display: inline-block;
+	margin: 10px 0px;
+}
+
+input {
+	height: 40px;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+
+}
+.group:after {
+  content: "";
+  display: table;
+  clear: both;
+}
