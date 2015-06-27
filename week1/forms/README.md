@@ -65,10 +65,10 @@ Commit message: __`forms - task 1 [status]`__
   6. Input width: 440px
 7. Determine any other styling, padding, margins to match the form as closely as you can.
 8. Add your changes into the respective files in GitHub
-9. Paste the code into a JSBin and add link here: __[paste link]__
+9. Paste the code into a JSBin and add link here: __[http://jsbin.com/nikebusewe/edit?html,css,output]__
 
 #### Update Your Status:
-- [ ] completed
+- [X] completed
 - [ ] in-progress
 - [ ] roadblock
 
