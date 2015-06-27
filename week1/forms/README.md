@@ -32,14 +32,14 @@ Use the following references to help you in creating the forms:
   2. Input width: 290px
 8. Determine any other styling, padding, margins to match the form as closely as you can.
 9. Add your changes into the respective files in GitHub
-10. Paste the code into a JSBin and add link here: __[paste link]__
+10. Paste the code into a JSBin and add link here: __[http://jsbin.com/pubatuvaga/1/edit?html,css,output]__
 
 #### Update Your Status:
-- [ ] completed
-- [X] in-progress
+- [X] completed
+- [ ] in-progress
 - [ ] roadblock
 
-Commit message: __`forms - task 1 [status]`__  
+Commit message: __`forms - task 1 [completed]`__  
 
 ### Task 2: Create & Style Form 2
 
