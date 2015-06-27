@@ -3,6 +3,7 @@ form {
 	color: #f1f1f1;
 	width: 1024px;
 	padding: 40px 0px;
+	font-family: arial;
 }
 .button-cont {
 	float: right;
@@ -17,6 +18,9 @@ button {
 	padding: 10px 40px;
 }
 
+h1 {
+	font-weight: lighter;
+}
 .form-title h1 {
 	text-align: center;
 	margin-top: 0px;
@@ -27,7 +31,7 @@ button {
 	margin: auto;
 }
 ol {
-	padding-left: 17px;
+	padding-left: 21px;
 }
 
 .bigger-box input {
@@ -45,7 +49,12 @@ input {
 	height: 40px;
 	-webkit-box-sizing: border-box;
 	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	color: grey;
 
+}
+input, button {
+	box-shadow: 1px 1px 1px grey;
 }
 .group:after {
   content: "";
