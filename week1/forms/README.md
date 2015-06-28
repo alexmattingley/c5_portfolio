@@ -91,7 +91,7 @@ Commit message: __`forms - task 2 [complete]`__
   3. Bottom Shadow: #8e4123
 8. You must determine form and form element dimensions, margins, padding, and any other styling to match the form as closely as you can
 9. Add your changes into the respective files in GitHub
-10. Paste the code into a JSBin and add link here: __[http://jsbin.com/petadorovo/edit?html,css,output]__
+10. Paste the code into a JSBin and add link here: __[http://jsbin.com/doveteqeco/edit?output]__
 
 
 #### Update Your Status:
