@@ -5,17 +5,15 @@ form {
 	padding: 40px 0px;
 	font-family: arial;
 }
-.button-cont {
-	float: right;
-	width: 26%;
-	margin-top: 15px;
-}
+
 
 button {
 	background: #881817;
 	color: #f1f1f1;
 	border: none;
 	padding: 10px 40px;
+  	float: right;
+  	margin-right: 15px;
 }
 
 h1 {
@@ -28,7 +26,7 @@ h1 {
 }
 
 .form-fields {
-	max-width: 90%;
+	max-width: 80%;
 	margin: auto;
 }
 ol {
