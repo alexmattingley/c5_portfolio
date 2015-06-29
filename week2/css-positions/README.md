@@ -42,16 +42,16 @@ Edit the following JSBin base code: <http://jsbin.com/maweyuxuqi/edit?html,css,o
 1. Your goal is to match the image displayed below given the following:
   1. The black box uses `relative` positioning
   2. The blue box uses `absolute` positioning and is in the top-right edge of the browser.
-2. Your JSBin URL: __[insert url]__ 
+2. Your JSBin URL: __[http://jsbin.com/berawoguna/edit?html,css,output]__ 
 
 ![pos ex 2](https://cloud.githubusercontent.com/assets/6971908/8410818/71149fd2-1e35-11e5-99fe-f9d3375da8bf.png)
 
 #### Update Your Status:
-- [ ] completed
+- [X] completed
 - [ ] in-progress
 - [ ] roadblock
 
-Commit message: __`css-positions - task 2 [status]`__  
+Commit message: __`css-positions - task 2 [completed]`__  
 
 ### Task 3: Positioning Exercise 3
 
