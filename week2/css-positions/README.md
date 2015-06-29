@@ -85,4 +85,40 @@ Edit the following JSBin base code (same as above): <http://jsbin.com/maweyuxuqi
 - [ ] in-progress
 - [ ] roadblock
 
-Commit message: __`css-positions - task 4 [status]`__ 
+Commit message: __`css-positions - task 4 [status]`__
+
+### Task 5: Positioning Exercise 5
+
+Edit the following JSBin base code (same as above): <http://jsbin.com/maweyuxuqi/edit?html,css,output>
+
+1. Position the boxes as shown below using only the “display” property. 
+2. Eliminate the space utilizing 2 different methods we have discussed:
+  1. Method 1: Both boxes must have equal coordinate value (whichever you choose: top/bottom/left/right)
+  2. Method 2: The blue box must use position: absolute; movement.
+2. Your JSBin URL: __[insert url]__ 
+
+![pos ex 5](https://cloud.githubusercontent.com/assets/6971908/8410843/9490fa82-1e35-11e5-89aa-1dccff02573a.png)
+
+#### Update Your Status:
+- [ ] completed
+- [ ] in-progress
+- [ ] roadblock
+
+Commit message: __`css-positions - task 5 [status]`__ 
+
+### Task 6: Positioning Exercise 6
+
+Edit the following JSBin base code: <http://jsbin.com/huxiyirayu/edit?html,css,output>
+
+1. Position the boxes as shown below
+2. The box must be centered both horizontally & vertically within the containing element
+3. Your JSBin URL: __[insert url]__ 
+
+![pos ex 6](https://cloud.githubusercontent.com/assets/6971908/8411586/a231e670-1e39-11e5-8b78-6737cd3249ad.png)
+
+#### Update Your Status:
+- [ ] completed
+- [ ] in-progress
+- [ ] roadblock
+
+Commit message: __`css-positions - task 6 [status]`__ 
