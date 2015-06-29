@@ -117,14 +117,14 @@ Edit the following JSBin base code: <http://jsbin.com/risefakute/edit?html,css,o
 
 1. Position the boxes as shown below
 2. The box must be centered both horizontally & vertically within the containing element
-3. Your JSBin URL: __[insert url]__ 
+3. Your JSBin URL: __[http://jsbin.com/natuzaboca/edit?html,css,output]__ 
 
 ![pos ex 6](https://cloud.githubusercontent.com/assets/6971908/8411586/a231e670-1e39-11e5-8b78-6737cd3249ad.png)
 
 #### Update Your Status:
-- [ ] completed
+- [X] completed
 - [ ] in-progress
 - [ ] roadblock
 
-Commit message: __`css-positions - task 6 [status]`__ 
+Commit message: __`css-positions - task 6 [completed]`__ 
 
