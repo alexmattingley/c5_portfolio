@@ -63,16 +63,16 @@ Edit the following JSBin base code (same as above): <http://jsbin.com/maweyuxuqi
   3. Use the same values for both coordinate position values (e.g. top: 20px, left: 20px;)
   4. The blue box MUST have a position property but stay in the same place in the container.
   5. The blue box position values (e.g. top: 20px, left: 20px;) must be __equal to the black box values__
-2. Your JSBin URL: __[insert url]__ 
+2. Your JSBin URL: __[http://jsbin.com/havuyokapi/edit?html,css,output]__ 
 
 ![pos ex 3](https://cloud.githubusercontent.com/assets/6971908/8410825/7a031ea2-1e35-11e5-983c-0a886ab5546a.png)
 
 #### Update Your Status:
 - [ ] completed
-- [ ] in-progress
+- [X] in-progress
 - [ ] roadblock
 
-Commit message: __`css-positions - task 3 [status]`__
+Commit message: __`css-positions - task 3 [Inprogress]`__
 
 ### Task 4: Positioning Exercise 4
 
