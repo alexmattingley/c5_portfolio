@@ -68,11 +68,11 @@ Edit the following JSBin base code (same as above): <http://jsbin.com/maweyuxuqi
 ![pos ex 3](https://cloud.githubusercontent.com/assets/6971908/8410825/7a031ea2-1e35-11e5-983c-0a886ab5546a.png)
 
 #### Update Your Status:
-- [ ] completed
-- [X] in-progress
+- [X] completed
+- [ ] in-progress
 - [ ] roadblock
 
-Commit message: __`css-positions - task 3 [Inprogress]`__
+Commit message: __`css-positions - task 3 [completed]`__
 
 ### Task 4: Positioning Exercise 4
 
