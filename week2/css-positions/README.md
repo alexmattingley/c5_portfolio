@@ -24,16 +24,16 @@ Edit the following JSBin base code: <http://jsbin.com/keresewofa/edit?html,css,o
   1. Both div boxes must have the same `top:30px` value
   2. The black box `left:30px` value is equal to the blue box `right:30px;` value
   3. The boxes will scroll up with page should there be additional content
-2. Your JSBin URL: __[insert url]__ 
+2. Your JSBin URL: __[http://jsbin.com/vamowojidi/edit?html,css,output]__ 
 
 ![pos ex 1](https://cloud.githubusercontent.com/assets/6971908/8410809/681b5772-1e35-11e5-9883-849d878ed630.png)
 
 #### Update Your Status:
-- [ ] completed
-- [X] in-progress
+- [X] completed
+- [ ] in-progress
 - [ ] roadblock
 
-Commit message: __`css-positions - task 1 [in-progress]`__  
+Commit message: __`css-positions - task 1 [completed]`__  
 
 ### Task 2: Positioning Exercise 2
 
