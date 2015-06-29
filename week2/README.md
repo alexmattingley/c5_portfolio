@@ -19,6 +19,7 @@
   - Updated Items (Set 1):
     - [week2/README.me](https://github.com/Learning-Fuze/Prep-Work/tree/master/week2)
     - [week2/css-positions](https://github.com/Learning-Fuze/Prep-Work/tree/master/week2/css-positions)
+      - 1 set, 6 tasks 
 2. Proceed to work on items:
   1. [Set 1](https://github.com/Learning-Fuze/Prep-Work/tree/master/week2/css-positions) (__Update Status @ 1:00pm__)
   2. Set 2 (To be released pending Video)
