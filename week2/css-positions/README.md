@@ -9,6 +9,11 @@ Before you begin:
 
 [CSS Centering - Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
 
+#### Status Update:
+
+Set 1 - Status Update Message @ 1:00pm: __`Set 1 Update - CSS-Positions [status]`__  
+(To clarify, this status update is done independently of tasks updates)
+
 ## Set 1: CSS Positions
 
 ### Task 1: Positioning Exercise 1
@@ -108,7 +113,7 @@ Commit message: __`css-positions - task 5 [status]`__
 
 ### Task 6: Positioning Exercise 6
 
-Edit the following JSBin base code: <http://jsbin.com/huxiyirayu/edit?html,css,output>
+Edit the following JSBin base code: <http://jsbin.com/risefakute/edit?html,css,output>
 
 1. Position the boxes as shown below
 2. The box must be centered both horizontally & vertically within the containing element
@@ -122,3 +127,4 @@ Edit the following JSBin base code: <http://jsbin.com/huxiyirayu/edit?html,css,o
 - [ ] roadblock
 
 Commit message: __`css-positions - task 6 [status]`__ 
+
