@@ -2,8 +2,8 @@
 
 Before you begin:
 
-- [ ] Go through our [CSS Positioning Slides (Week 2 > Slides > 6)](https://docs.google.com/presentation/d/1qCGIzhT275Y9SbkGjVBZnpNH2a8b35hp-ifP7fKGzJ8/edit?usp=sharing)
-- [ ] Go through [Shay's detailed positioning](http://learn.shayhowe.com/advanced-html-css/detailed-css-positioning/#position-property)
+- [X] Go through our [CSS Positioning Slides (Week 2 > Slides > 6)](https://docs.google.com/presentation/d/1qCGIzhT275Y9SbkGjVBZnpNH2a8b35hp-ifP7fKGzJ8/edit?usp=sharing)
+- [X] Go through [Shay's detailed positioning](http://learn.shayhowe.com/advanced-html-css/detailed-css-positioning/#position-property) --Lots of good tidbits here, really good tutorial :)
 
 #### Reference: 
 
@@ -30,10 +30,10 @@ Edit the following JSBin base code: <http://jsbin.com/keresewofa/edit?html,css,o
 
 #### Update Your Status:
 - [ ] completed
-- [ ] in-progress
+- [X] in-progress
 - [ ] roadblock
 
-Commit message: __`css-positions - task 1 [status]`__  
+Commit message: __`css-positions - task 1 [in-progress]`__  
 
 ### Task 2: Positioning Exercise 2
 
