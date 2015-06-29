@@ -81,16 +81,16 @@ Edit the following JSBin base code (same as above): <http://jsbin.com/maweyuxuqi
 1. Your goal is to match the image displayed below given the following:
   1. Both boxes must have equal coordinate value (whichever you choose: top/bottom/left/right)
   2. The blue box must use position: absolute; movement.
-2. Your JSBin URL: __[insert url]__ 
+2. Your JSBin URL: __[http://jsbin.com/jovupozele/edit?html,css,output]__ 
 
 ![pos ex 4](https://cloud.githubusercontent.com/assets/6971908/8410833/855e7cce-1e35-11e5-90e3-2380af3f2b18.png)
 
 #### Update Your Status:
-- [ ] completed
+- [X] completed
 - [ ] in-progress
 - [ ] roadblock
 
-Commit message: __`css-positions - task 4 [status]`__
+Commit message: __`css-positions - task 4 [completed]`__
 
 ### Task 5: Positioning Exercise 5
 
