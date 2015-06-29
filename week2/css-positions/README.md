@@ -126,5 +126,5 @@ Edit the following JSBin base code: <http://jsbin.com/risefakute/edit?html,css,o
 - [ ] in-progress
 - [ ] roadblock
 
-Commit message: __`css-positions - task 6 [completed]`__ 
+Commit message: __`css-positions - task 6 [completed]-updated`__ 
 
