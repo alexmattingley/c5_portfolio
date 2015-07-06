@@ -43,15 +43,15 @@ Using Form 2 from week one make it display properly on a cellphone
 
 1. Right-click on the screen, select "Inspect Element"
 
-<img src="">
+<img src="https://github.com/Learning-Fuze/Prep-Work/blob/assets/assets/mobileForms/form_inspect_ele.png?raw=true">
 
 2. In the inspector, click on the cellphone icon (top left corner)
 
-<img src="">
+<img src="https://github.com/Learning-Fuze/Prep-Work/blob/assets/assets/mobileForms/form_device_icon.png?raw=true">
 
 3. Select "Samsung Galaxy S4" from the pull down menu
 
-<img src="">
+<img src="https://github.com/Learning-Fuze/Prep-Work/blob/assets/assets/mobileForms/form_galaxy_s4.png?raw=true">
 
 ## Commit Message
 
