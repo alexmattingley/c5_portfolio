@@ -17,7 +17,7 @@ Using Form 1 from week one make it display properly on a cellphone
 - The form should also display properly on a cellphone screen
 	- In the head of your HTML add the following meta tag:
 		- `<meta name="viewport" content="initial-scale=1, maximum-scale=1">`
-		- <a href="https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag">Why do I need this?</a>
+		- <a href="https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag" target="_blank">Why do I need this?</a>
 	- Use the "Samsung Galaxy S4" for testing purposes
 	- Use a media query for max-width @ 320px
 		- <a href="http://www.w3schools.com/cssref/css3_pr_mediaquery.asp" target="_blank">Help Creating a Media Query</a>
@@ -32,7 +32,7 @@ Using Form 2 from week one make it display properly on a cellphone
 - The form should also display properly on a cellphone screen
 	- In the head of your HTML add the following meta tag:
 		- `<meta name="viewport" content="initial-scale=1, maximum-scale=1">`
-		- <a href="https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag">Why do I need this?</a>	
+		- <a href="https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag" target="_blank">Why do I need this?</a>	
 	- Use the "Samsung Galaxy S4" for testing purposes
 	- Use a media query for max-width @ 320px
 		- <a href="http://www.w3schools.com/cssref/css3_pr_mediaquery.asp" target="_blank">Help Creating a Media Query</a>
