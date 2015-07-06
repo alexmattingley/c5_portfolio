@@ -2,6 +2,7 @@ form {
 	background: #f7f7f7;
 	border: 1px solid lightgrey;
 	width: 95%;
+	max-width: 400px;
 	margin: auto;
 	font-size: 16px;
 }
@@ -21,6 +22,7 @@ form {
 }
 .form-title p {
 	font-size: 1em;
+	font-weight: bolder;
 }
 
 .form-fields {
@@ -56,11 +58,35 @@ input {
 	color: lightgrey;
 }
 
-@media all and (min-width: 600px) {
+textarea {
+	height: 60px;
+	color: lightgrey;
+	border: 1px lightgrey solid;
+}
+
+select {
+	height: 30px;
+	border-radius: 0px;
+	color: grey;
+	background: white;
+	border: 1px lightgrey solid;
+}
+
+button {
+	display: block;
+	background: #e27578;
+	border: none;
+	color: white;
+	border-radius: 3px;
+	padding: 10px 20px;
+	margin-left: 96px;
+	margin-top: 20px;
+}
+
+@media all and (min-width: 500px) {
 
 	form {
 		width: 400px;
-		
 	}
 
 	.form-fields, .form-title {
@@ -73,7 +99,6 @@ input {
 
 	.form-title p {
 		font-size: .75em;
-		font-weight: bolder;
 	}
 	
 	input, textarea, select, option {
@@ -82,32 +107,5 @@ input {
 	
 	label {
 		font-size: .875em;
-	}
-	
-
-	textarea {
-	  height: 60px;
-	  color: lightgrey;
-	  border: 1px lightgrey solid;
-
-	}
-	select {
-		height: 30px;
-		border-radius: 0px;
-		color: grey;
-		background: white;
-		border: 1px lightgrey solid;
-	}
-
-
-	button {
-		display: block;
-		background: #e27578;
-		border: none;
-		color: white;
-		border-radius: 3px;
-		padding: 10px 20px;
-		margin-left: 96px;
-		margin-top: 20px;
 	}
 }
