@@ -1,6 +1,6 @@
 form {
-  
   height: auto;
+  width: 95%;
   max-width: 590px;
   box-sizing: border-box;
   border-radius: 5px;
@@ -35,7 +35,7 @@ form {
   text-align: left;
   width: 85%;
   margin: auto;
-  padding: 20px 0;
+  padding: 0 0 20px 0;
 }
 
 .form-fields label {
@@ -66,9 +66,6 @@ select {
 	font-size: 16px;
 }
 
-
-style
-
 option {
 	line-height: 24px;
 }
@@ -96,9 +93,13 @@ button {
 }
 
 @media all and (max-width: 320px) {
-	form {
-		width: 70%;
+	.form-fields label {
+		margin-bottom: 5px;
+		font-size: 16px;
+	}
 
+	.form-title p {
+		font-size: .85em;
 	}
 }
 
