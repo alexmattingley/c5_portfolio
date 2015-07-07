@@ -7,44 +7,43 @@ form {
 	font-size: 16px;
 }
 
+.form-fields, .form-title {
+	padding: 1em 2em;
+}
+
 .form-title {
 	border-bottom: 1px lightgrey solid;
 	color: #7c7c7c;
-	padding: 1em;
-}
-
-.form-title h1, .form-title p {
-	margin: 0;
-}
-
-.form-title h1 {
-	font-size: 1.750em;
-}
-.form-title p {
-	font-size: 1em;
-	font-weight: bolder;
-}
-
-.form-fields {
-	padding: 1em;
 }
 .indiv-fields {
 	margin: 1.2em auto;
 }
 
+.form-title h1, .form-title p {
+	margin: 0;
+}
+.form-title h1 {
+	font-size: 1.5em;
+}
+
+.form-title p {
+	font-size: .75em;
+	font-weight: bolder;
+}
+
 input, textarea, select, option {
-  box-sizing: border-box;
-   -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  width: 60%;
-  max-width: 290px;
-  font-size: 12px;
+	font-size: .75em;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	width: 58%;
+	max-width: 290px;
 }
 
 label {
-	color: #7c7c7c;
-	font-size: 1em;
 	min-width: 80px;
+	font-size: .875em;
+	color: #7c7c7c;
 	display: inline-block;
 	text-align: right;
 	vertical-align: top;
@@ -83,25 +82,32 @@ button {
 	margin-top: 20px;
 }
 
-@media all and (min-width: 500px) {
+@media all and (max-width: 320px) {
+	form {
+		font-size: 1em;
+	}
 
-	.form-fields, .form-title {
-		padding: 1em 2em;
+	.form-title {
+		padding: 1em;
 	}
 
 	.form-title h1 {
-		font-size: 1.5em;
+		font-size: 1.750em;
+	}
+	.form-title p {
+		font-size: 1em;
 	}
 
-	.form-title p {
-		font-size: .75em;
+	.form-fields {
+		padding: 1em;
 	}
-	
+
 	input, textarea, select, option {
-	  font-size: .75em;
+	  font-size: 12px;
 	}
-	
+
 	label {
-		font-size: .875em;
+		font-size: 1em;
 	}
-}ok ,s o
+
+}
