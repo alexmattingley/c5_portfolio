@@ -61,6 +61,7 @@ textarea {
 	height: 60px;
 	color: lightgrey;
 	border: 1px lightgrey solid;
+	padding: 5px;
 }
 
 select {
