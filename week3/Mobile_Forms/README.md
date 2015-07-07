@@ -59,7 +59,7 @@ Using Form 2 from week one make it display properly on a cellphone
 #### Send a commit message @ 9pm 7/6/15
 
 Commit message:
-- `mobile_forms [status]`
+- `mobile_forms [complete]`
 	- Replace status with one of the following
 		- Complete
 		- Incomplete
