@@ -80,4 +80,19 @@ In the `index.html` file use your grid system to create some columns of dummy da
 
 ## Commits
 
+##### Status Update due @ 9pm 7/8/2015
+
+Commit message:
+- `Grid System - [status]`
+	- Replace "status" with:
+		- complete
+		- incomplete
+		- roadblock 
+
 ## Pull Request
+
+##### Pull Request due by 10am 7/9/2015
+
+Title:
+- `Your Name - PR#1 [grid-system]`
+	- Replace "Your Name" with your first and last name

@@ -39,3 +39,28 @@
 - Due @ 10am 7/8/2015
 - Title:
 	- `Your Name - PR#1 [responsive_0.5]`
+
+## Wednesday 7/8/2015
+
+### Assignment 
+
+<a href="https://github.com/Learning-Fuze/Prep-Work/tree/master/week3/Grid_System#grid-system"></a>
+
+### Commit Message Status Updates
+
+##### Status Update due @ 9pm 7/8/2015
+
+Commit message:
+- `Grid System update [status]`
+	- Replace "status" with:
+		- complete
+		- incomplete
+		- roadblock 
+
+## Pull Request
+
+##### Pull Request due by 10am 7/9/2015
+
+Title:
+- `Your Name - PR#1 [grid-system]`
+	- Replace "Your Name" with your first and last name
