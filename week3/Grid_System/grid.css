@@ -5,6 +5,7 @@
 	margin: 10px;
 	height: 60px;
 	background: lightblue;
+	box-sizing: border-box;
 }
 
 .container {
@@ -15,28 +16,28 @@
 }
 
 .col-1 {
-	width: 60px;
+	width: 58.33px;
 }
 
 .col-2 {
-	width: 140px;
+	width: 136.66px;
 }
 .col-3 {
-	width: 220px;
+	width: 215px;
 }
 .col-4 {
-	width: 300px;
+	width: 293.333px;
 }
 .col-5 {
-	width: 380px;
+	width: 371.66666px;
 }
 
 .col-6 {
-	width: 460px;
+	width: 450px;
 }
 
 .col-7 {
-	width: 540px;
+	width: 528.3333px;
 }
 .col-8 {
 	width: 620px;
@@ -55,4 +56,12 @@
 .col-12 {
 	width: 940px;
 	margin: 10px 0px;
+}
+
+
+/*Clearfix*/
+.group:after {
+  content: "";
+  display: table;
+  clear: both;
 }
