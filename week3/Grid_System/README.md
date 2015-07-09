@@ -83,7 +83,7 @@ In the `index.html` file use your grid system to create some columns of dummy da
 ##### Status Update due @ 9pm 7/8/2015
 
 Commit message:
-- `Grid System - [status]`
+- `Grid System - [incomplete]`
 	- Replace "status" with:
 		- complete
 		- incomplete
