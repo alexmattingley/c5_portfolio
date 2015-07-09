@@ -10,7 +10,8 @@
 }
 
 .container {
-	width: 940px;
+	width: auto;
+	max-width: 940px;
 	height: auto;
 	background: grey;
 	margin: auto;
