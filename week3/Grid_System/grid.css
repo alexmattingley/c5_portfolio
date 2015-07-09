@@ -3,14 +3,15 @@
 	display: inline-block;
 	float: left;
 	margin: 10px;
-	height: 60px;
+	min-height: 60px;
 	background: lightblue;
 	box-sizing: border-box;
+	padding: 5px;
 }
 
 .container {
 	width: 940px;
-	height: 700px;
+	height: auto;
 	background: grey;
 	margin: auto;
 }
@@ -40,7 +41,7 @@
 	width: 528.3333px;
 }
 .col-8 {
-	width: 606.66666666px;
+	max-width: 606.66666666px;
 }
 .col-9 {
 	width: 685px;
@@ -57,6 +58,9 @@
 	width: 920px;
 }
 
+img {
+	max-width: 100%;
+}
 
 /*Clearfix*/
 .group:after {
