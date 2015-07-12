@@ -75,7 +75,7 @@ Title:
 
 ### Assignment 
 
-<a href="https://github.com/Learning-Fuze/Prep-Work/tree/master/week3/Bootstrap-Grid"></a>
+<a href="https://github.com/Learning-Fuze/Prep-Work/tree/master/week3/Bootstrap-Grid">Bootstrap Grid Portfolio</a>
 
 ### Commit Message Status Updates
 
