@@ -64,3 +64,36 @@ Commit message:
 Title:
 - `Your Name - PR#1 [grid-system]`
 	- Replace "Your Name" with your first and last name
+
+## Thursday 7/9/2015
+
+### Assignment (No assignment - Revise Responsive Mboutique)
+
+### In-Class Orientation
+
+## Friday 7/10/2015
+
+### Assignment 
+
+<a href="https://github.com/Learning-Fuze/Prep-Work/tree/master/week3/Bootstrap-Grid">Bootstrap Grid Portfolio</a>
+
+### Commit Message Status Updates
+
+##### Status Update due Sunday @ 7pm 7/12/2015
+
+Commit message:
+- `Bootstrap update [status]`
+	- Replace "status" with:
+		- complete
+		- incomplete
+		- roadblock 
+
+## Pull Request
+
+##### Pull Request due by Monday, @ 10am 7/13/2015
+
+Title:
+- `Your Name - PR#1 [Bootstrap Grid]`
+	- Replace "Your Name" with your first and last name
+
+
