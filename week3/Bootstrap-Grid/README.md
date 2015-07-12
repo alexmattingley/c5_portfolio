@@ -34,13 +34,13 @@ The aim of this project is twofold:
 
 ##### Status update message due by 7pm 7/12/2015
 
-Commit message:
-
+- Commit message:
 - `Grid System - [status]`
 - Replace "status" with:
     - complete
     - incomplete
     - roadblock
+
 ### Pull Request #1
 - Due by Monday 7/13/2015 @ 10:00am
 - Title:
