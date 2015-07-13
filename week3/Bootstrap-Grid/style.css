@@ -12,7 +12,7 @@ a.glyphicon-menu-down.text-center {
 
 .hero-banner {
 	background: url('images/calafia.jpg') no-repeat;
-	padding: 100px 20px;
+	#padding: 100px 20px;
 	color: white;
 	background-size: cover;
 }
@@ -70,7 +70,7 @@ a.glyphicon-menu-down.text-center {
 }
 
 footer {
-	background: black;
+	background: lavender;
 	color: white;
 }
 

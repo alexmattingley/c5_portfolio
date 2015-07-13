@@ -35,7 +35,7 @@ The aim of this project is twofold:
 ##### Status update message due by 7pm 7/12/2015
 
 - Commit message:
-- `Grid System - [status]`
+- `Grid System - [roadblock]`
 - Replace "status" with:
     - complete
     - incomplete
