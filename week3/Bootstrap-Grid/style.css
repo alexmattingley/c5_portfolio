@@ -1,4 +1,17 @@
+/*General Styles*/
+
+
 a.glyphicon-menu-down.text-center {
 	display: block;
 	font-size: 2em;
+}
+
+
+/*Hero Banner*/
+
+.hero-banner {
+	background: url('images/calafia.jpg') no-repeat;
+	padding: 100px 20px;
+	color: white;
+	background-size: cover;
 }
