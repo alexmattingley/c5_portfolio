@@ -57,3 +57,22 @@ a.glyphicon-menu-down.text-center {
 	padding-bottom: 100px;
 	background: #16ffbd;
 }
+
+/*Contact Form*/
+
+.contact-block {
+	background: white;
+}
+.contact-block a {
+	display: block;
+}
+
+footer {
+	background: black;
+	color: white;
+}
+
+footer a {
+	color: white;
+	display: block;
+}
