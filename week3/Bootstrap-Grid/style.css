@@ -70,6 +70,14 @@ a.glyphicon-menu-down.text-center {
 	display: block;
 }
 
+/*about*/
+
+.about {
+	clear: both;
+}
+
+/*Footer*/
+
 footer {
 	background: lavender;
 	color: white;
@@ -79,3 +87,4 @@ footer a {
 	color: white;
 	display: block;
 }
+
