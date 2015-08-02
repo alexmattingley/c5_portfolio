@@ -70,8 +70,11 @@ a.glyphicon-menu-down.text-center {
 }
 
 .skills-block li.col-sm-4 {
-	margin: 40px auto;
+	margin-top: 40px;
+	margin-bottom: 40px;
 }
+
+
 
 .skills-block i {
 	display: block;
