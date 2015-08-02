@@ -23,56 +23,61 @@ a.glyphicon-menu-down.text-center {
 /*Work Section*/
 
 
-.work-block h3 a {
-	color: grey;
+.work-block h3 a, .work-block p {
+	color: white;
 }
 
 
 .mbsr-img {
-	background: url('images/mbsr_screenshot.png') no-repeat;
+	background: url('images/mbsr_image.jpg') no-repeat;
 	
 }
 
 .karen-img {
-	background: url('images/karen_screenshot.png') no-repeat;
+	background: url('images/karen_rocks.jpg') no-repeat;
 }
 
-.mbotique-img {
-	background: url('images/mboutique_screenshot.png') no-repeat;
+.memory-img {
+	background: url('images/zoo_animal_memory_match.jpg') no-repeat;
 }
 
 .indiv-project {
+	padding: 20px;
 	background-size: cover;
 	height: 290px;
-	border: 5px solid grey;
 	margin: 20px auto;
 }
 
 .text-cover {
-	background: rgba(255,255,255, 0.8);
 	width: 100%;
 	height: 100%;
-	padding-top: 30%; 
+	margin: auto;
+	border: 1px solid white;
+	padding: 50px 5px;
+	background: rgba(0,0,0,.4);
+}
+
+.work-block h5 {
+	text-align: center;
 }
 
 
-.work ul li {
-	background-size: cover;
-	padding: 150px 0px;
-	margin:  20px 0px;
+/*Skills Block*/
+
+.skills-block {
+	background: #339D8E;
+	color: white;
 }
-.work ul li a {
+
+.skills-block li.col-sm-4 {
+	margin: 40px auto;
+}
+
+.skills-block i {
 	display: block;
-	color: #16ffbd;
 }
 
-/*Testimonial Section*/
 
-.testimonial {
-	padding-top: 100px;
-	padding-bottom: 100px;
-	background: #16ffbd;
-}
 
 /*Contact Form*/
 
