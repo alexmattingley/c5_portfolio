@@ -40,6 +40,7 @@ label {
 	height: 100vh;
 	color: white;
 	background-size: cover;
+	background-attachment: fixed;
 }
 
 .hero-banner .hero-text {
