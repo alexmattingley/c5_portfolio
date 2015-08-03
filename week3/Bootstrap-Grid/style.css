@@ -152,8 +152,12 @@ label {
 
 .about {
 	clear: both;
-	padding-top: 40px;
-	padding-bottom: 40px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.about .text-block {
+	margin-top: 50px;
 }
 
 /*Footer*/
