@@ -1,3 +1,6 @@
 $(document).ready(function(){
-	console.log('Main.js is working');
+
+	var hero_h1 = $('<h1>').text('hello.');
+	$('.hero-text').append(hero_h1);
+
 });
