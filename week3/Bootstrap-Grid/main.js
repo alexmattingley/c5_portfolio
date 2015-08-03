@@ -1,16 +1,12 @@
 $(document).ready(function(){
 
-	var hero_text = $('.hero-text');
-	var hero_h1 = $('<h1>').text('hello.');
-	var hero_h4 = $('<h4>').text('My name is Alex Mattingley and I develop websites and applications.');
-	var down_arrow = $('<a>',{
-		class: "glyphicon glyphicon-menu-down text-center",
-		href: "#work"
-	});
-	
 
-	hero_text.append(hero_h1);
-	hero_text.append(hero_h4);
-	hero_text.append(down_arrow);
+	$('.hero-text h1').fadeIn(3000);
 
+	function second_fade() {
+		$('.hero-text h4').fadeIn(3000);
+		$('.hero-text a.glyphicon-menu-down.text-center').fadeIn(3000);
+	}
+
+	setTimeout(second_fade, 2000);
 });
