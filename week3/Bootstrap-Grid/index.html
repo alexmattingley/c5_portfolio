@@ -10,27 +10,27 @@
 		<link rel="stylesheet" href="style.css">	
 	</head>
 	<body>
-		<nav class="navbar">
-			<div class="container-fluid">
-				<div class="navbar-header">
-					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-						<span class="sr-only">Toggle navigation</span>
-					        <span class="glyphicon glyphicon-menu-hamburger"></span>
-					</button>
+		<div class="hero-banner">
+			<nav class="navbar">
+				<div class="container-fluid">
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+							<span class="sr-only">Toggle navigation</span>
+						        <span class="glyphicon glyphicon-menu-hamburger"></span>
+						</button>
+					</div>
+					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				      <ul class="nav navbar-nav">
+				        <li><a href="index.html">Home</a></li>
+				        <li><a href="about.html">About</a></li>
+				        <li><a href="#work">Work</a></li>
+				        <li><a href="#contact">Contact</a></li>
+				    </div>
 				</div>
-				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-			      <ul class="nav navbar-nav">
-			        <li><a href="index.html">Home</a></li>
-			        <li><a href="about.html">About</a></li>
-			        <li><a href="#work">Work</a></li>
-			        <li><a href="#contact">Contact</a></li>
-			    </div>
-			</div>
-		</nav>
-		<div class="hero-banner text-center">
-			<div class="text-center">
+			</nav>
+			<div class="hero-text text-center">
 				<h1>hello.</h1>
-				<h4>My name is Alex Mattingley and I develop websites.</h4>
+				<h4>My name is Alex Mattingley and I develop websites and applications</h4>
 				<a class="glyphicon glyphicon-menu-down text-center" href="#work"></a>
 			</div>
 		</div>
@@ -38,7 +38,7 @@
 			<div class="work-block">
 				<a name="work"></a>
 				<h2 class="text-center">Recent Projects</h2>
-				<ul class="list-unstyled">
+				<ul class="list-unstyled clearfix">
 					<li class="col-sm-4"> 
 						<div class="mbsr-img text-center indiv-project">
 							<div class="text-cover">
@@ -65,7 +65,7 @@
 					</li>
 				</ul>
 
-				<h5>More Projects<a class="glyphicon glyphicon-menu-down"></a></h5>
+				<h5 class="text-center"><a href="javascript:;">More Projects</a><i class="glyphicon glyphicon-menu-down text-center"></i></h5>
 				<a class="glyphicon glyphicon-menu-down text-center" href="#testimonial"></a>
 			</div>
 		</div>

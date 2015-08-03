@@ -4,7 +4,14 @@
 a.glyphicon-menu-down.text-center {
 	display: block;
 	font-size: 2em;
+	color: #FF8973;
 }
+
+i.glyphicon-menu-down {
+	color: #FF8973;
+	margin-left: 10px;
+}
+
 
 
 /*Header Navigation*/
@@ -15,16 +22,41 @@ a.glyphicon-menu-down.text-center {
 .hero-banner {
 	background: url('images/calafia.jpg') no-repeat;
 	height: 100vh;
-	padding-top: 15%;
 	color: white;
 	background-size: cover;
 }
 
+.hero-banner .hero-text {
+	padding-top: 15%;
+}
+
+.hero-banner .navbar a {
+	color: white;
+}
+
+.hero-banner .navbar a:hover {
+	background: none;
+	color: #FF8973;
+} 
+
 /*Work Section*/
+
+.work-block {
+	padding: 50px 0;
+}
 
 
 .work-block h3 a, .work-block p {
 	color: white;
+}
+
+.work-block h5 {
+	margin: 30px auto;
+	font-size: 1.7em;
+}
+
+.work-block h5 a {
+	color: #339D8E;
 }
 
 
@@ -55,10 +87,6 @@ a.glyphicon-menu-down.text-center {
 	border: 1px solid white;
 	padding: 50px 5px;
 	background: rgba(0,0,0,.4);
-}
-
-.work-block h5 {
-	text-align: center;
 }
 
 
