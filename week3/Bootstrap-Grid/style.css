@@ -167,3 +167,11 @@ footer a {
 	display: block;
 }
 
+footer a:hover {
+	color: #339D8E;
+}
+
+footer ul li {
+	margin: 30px auto;
+}
+
