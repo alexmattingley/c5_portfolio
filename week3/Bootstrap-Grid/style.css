@@ -129,17 +129,19 @@ label {
     height: 100%;
     width: 100%;
     transform: scale(1);
-    transition: 1s;
-    background: rgba(0,0,0,.2);
+    transition: .5s;
+    background: rgba(0,0,0,0);
 }
 
 
 .indiv-project:hover .text-cover::before {
 	transform:scale(.8,.8);
+	background: rgba(0,0,0,.2);
 }
 
 .indiv-project:hover .text-cover::after {
 	transform:scale(.8,.8);
+	background: rgba(0,0,0,.2);
 }
 
 
