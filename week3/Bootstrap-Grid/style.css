@@ -111,6 +111,7 @@ label {
 	left: 0%;
 	width: 100%;
 	height: 100%;
+
 }
 
 .text-container {
@@ -120,7 +121,7 @@ label {
 }
 
 .text-cover::before, .text-cover::after {
-	position: absolute;
+	position: absolute; /*This is really important, and will not work without position absolute*/
 	content: '';
 	border: 1px solid white;
 	top: 0%;
@@ -128,18 +129,17 @@ label {
     height: 100%;
     width: 100%;
     transform: scale(1);
+    transition: 1s;
     background: rgba(0,0,0,.2);
 }
 
 
 .indiv-project:hover .text-cover::before {
 	transform:scale(.8,.8);
-    transition: 1s;
 }
 
 .indiv-project:hover .text-cover::after {
 	transform:scale(.8,.8);
-    transition: 1s;
 }
 
 
