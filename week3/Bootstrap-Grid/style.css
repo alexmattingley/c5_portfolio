@@ -99,19 +99,44 @@ label {
 }
 
 .indiv-project {
-	padding: 20px;
+	position: relative;
 	background-size: cover;
 	height: 290px;
 	margin: 20px auto;
 }
 
 .text-cover {
+	position: absolute;
+	top: 10%;
+	left: 5%;
+	width: 90%;
+	height: 90%;
+}
+
+/*.text-cover::after {
+	content: 'this is after';
 	width: 100%;
 	height: 100%;
 	margin: auto;
 	border: 1px solid white;
 	background: rgba(0,0,0,.4);
 }
+
+.text-cover::before {
+	content: 'this is before';
+	width: 100%;
+	height: 100%;
+	margin: auto;
+	border-left: 1px solid white;
+    border-right: 1px solid white;
+	transform: scale(1,0);
+}
+
+.indiv-project:hover .text-cover::after, .indiv-project:hover .text-cover::before {
+	transform:scale(1);
+    transition: 2s;
+}*/
+
 
 .text-container {
 	position: relative;
