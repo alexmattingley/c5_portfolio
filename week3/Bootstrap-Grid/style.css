@@ -110,8 +110,13 @@ label {
 	height: 100%;
 	margin: auto;
 	border: 1px solid white;
-	padding: 50px 5px;
 	background: rgba(0,0,0,.4);
+}
+
+.text-container {
+	position: relative;
+	top: 50%;
+	transform: translateY(-100%);
 }
 
 
