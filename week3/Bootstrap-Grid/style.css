@@ -107,10 +107,47 @@ label {
 
 .text-cover {
 	position: absolute;
-	top: 10%;
-	left: 5%;
-	width: 90%;
-	height: 90%;
+	top: 0%;
+	left: 0%;
+	width: 100%;
+	height: 100%;
+}
+
+.text-container {
+	position: relative;
+	top: 50%;
+	transform: translateY(-100%);
+}
+
+.text-cover::after {
+	position: absolute;
+	content: '';
+	border-top: 1px solid white;
+    border-bottom: 1px solid white;
+    top: 10%;
+    left: 5%;
+    height: 80%;
+    width: 90%;
+    transform: scale(0,1);
+    background: rgba(0,0,0,.4);
+
+}
+.text-cover::before {
+	position: absolute;
+	content: '';
+	border-left: 1px solid white;
+    border-right: 1px solid white;
+    top: 10%;
+    left: 5%;
+    height: 80%;
+    width: 90%;
+    transform: scale(0,1);
+    background: rgba(0,0,0,.4);
+
+}
+.indiv-project:hover .text-cover::after, .indiv-project:hover .text-cover::before {
+	transform:scale(1);
+    transition: 2s;
 }
 
 /*.text-cover::after {
@@ -119,7 +156,7 @@ label {
 	height: 100%;
 	margin: auto;
 	border: 1px solid white;
-	background: rgba(0,0,0,.4);
+	
 }
 
 .text-cover::before {
@@ -136,13 +173,6 @@ label {
 	transform:scale(1);
     transition: 2s;
 }*/
-
-
-.text-container {
-	position: relative;
-	top: 50%;
-	transform: translateY(-100%);
-}
 
 
 /*Skills Block*/
