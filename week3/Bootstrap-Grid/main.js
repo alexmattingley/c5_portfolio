@@ -16,6 +16,11 @@ $('.indiv-project').on('mouseenter', function(){
 var project_row_height = $('.project-row').height();
 $('.work-block ul.list-unstyled').css('height', project_row_height);
 
+function project_vert_scroll() {
+	//jquery animate for movement. think -100%, 0%, 100%. Dan mentioned 
+	//that you might not want to do the hiding stuff your doing now.
+}
+
 
 $(document).ready(function(){
 	setTimeout(hero_second_fade, 2000);
