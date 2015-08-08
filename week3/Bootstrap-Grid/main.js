@@ -38,6 +38,7 @@ $('.more-projects').on('click', function(){
 	}else {
 		$('#proj-row-1').animate({top: '0%'}, 2000);
 		$('#proj-row-2').animate({top: '0%'}, 2000);
+		project_load_click = 0;
 	}
 	console.log(project_load_click);
 });
