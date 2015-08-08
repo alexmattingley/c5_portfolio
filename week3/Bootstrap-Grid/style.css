@@ -83,9 +83,7 @@ label {
 .work-block h5 a {
 	color: #339D8E;
 }
-.work-block ul.list-unstyled {
-	overflow: hidden;
-}
+
 
 
 .mbsr-img {
@@ -106,6 +104,14 @@ label {
 	background-size: cover;
 	height: 290px;
 	margin: 20px auto;
+}
+
+.work-block ul.list-unstyled {
+	overflow: hidden;
+}
+
+.project-row {
+	position: relative;
 }
 
 .text-cover {
