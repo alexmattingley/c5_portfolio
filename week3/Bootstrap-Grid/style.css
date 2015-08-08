@@ -120,6 +120,10 @@ label {
 	transform: translateY(-100%);
 }
 
+.text-container p {
+	display: none;
+}
+
 .text-cover::before, .text-cover::after {
 	position: absolute; /*This is really important, and will not work without position absolute*/
 	content: '';

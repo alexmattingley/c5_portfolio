@@ -4,13 +4,21 @@ function hero_text_fadeIn() {
 }
 
 //basic function for the rest of the text and the down arrow fadeIn, called in the document ready
-function second_fade() {
+function hero_second_fade() {
 	$('.hero-text h4').fadeIn(2000);
 	$('.hero-text a.glyphicon-menu-down.text-center').fadeIn(2000);
 }
 
+$('.indiv-project').on('mouseenter', function(){
+	$(this).find('p').fadeIn(2000);
+});
+
+// $('.indiv-project').on('mouseleave', this, function(){
+// 	console.log('you have called the work_fade_in');
+// });
+
 $(document).ready(function(){
 
-	setTimeout(second_fade, 2000);
+	setTimeout(hero_second_fade, 2000);
 	hero_text_fadeIn();
 });
