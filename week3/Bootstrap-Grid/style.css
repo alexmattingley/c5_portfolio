@@ -157,6 +157,12 @@ label {
 	background: rgba(0,0,0,.2);
 }
 
+@media(min-width: 1600px) {
+	.indiv-project {
+		height: 400px;
+	}
+}
+
 
 /*Skills Block*/
 
