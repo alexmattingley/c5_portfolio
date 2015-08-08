@@ -29,6 +29,8 @@ $('.work-block ul.list-unstyled').css('height', project_row_height);
 This function is the meat and potatoes of the vert scroll. On the click of the 
 more-projects button, it animates the rows to scroll up or down depending on
 if the user is currently looking at the first or the second row of projects.
+NOTE: There is probably a better way to do this so it adjusts depending on the number of
+rows. I will consider making this dynamic.
 *************/
 $('.more-projects').on('click', function(){
 	project_load_click = ++project_load_click;
