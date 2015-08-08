@@ -13,12 +13,11 @@ $('.indiv-project').on('mouseenter', function(){
 	$(this).find('p').fadeIn(2000);
 });
 
-// $('.indiv-project').on('mouseleave', this, function(){
-// 	console.log('you have called the work_fade_in');
-// });
+var project_row_height = $('.project-row').height();
+$('.work-block ul.list-unstyled').css('height', project_row_height);
+
 
 $(document).ready(function(){
-
 	setTimeout(hero_second_fade, 2000);
 	hero_text_fadeIn();
 });
