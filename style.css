@@ -180,6 +180,15 @@ label {
 }
 
 
+/*Project pages*/
+
+.project_screenshots img {
+	max-width: 100%;
+	border: 5px solid black;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
 /*Skills Block*/
 
 .skills-block {
