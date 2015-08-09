@@ -182,9 +182,19 @@ label {
 
 /*Project pages*/
 
+.project_description {
+	margin-bottom: 50px;
+}
+
+.indiv-project-page {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
 .project_screenshots img {
 	max-width: 100%;
 	border: 5px solid black;
+	border-radius: 5px;
 	margin-top: 20px;
 	margin-bottom: 20px;
 	padding: 0px;
@@ -194,6 +204,20 @@ label {
 	width: auto;
 	display: block;
 	margin: 30px auto;
+}
+
+@media(min-width: 768px) {
+	.project_screenshots img {
+		border: 10px solid black;
+	}
+	
+	.project_description {
+		padding: 0px;
+	}
+}
+
+@media(min-width: 1200px){
+
 }
 
 /*Skills Block*/
