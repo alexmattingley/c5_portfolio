@@ -187,6 +187,13 @@ label {
 	border: 5px solid black;
 	margin-top: 20px;
 	margin-bottom: 20px;
+	padding: 0px;
+}
+
+.project_screenshots img.mobile-img {
+	width: auto;
+	display: block;
+	margin: 30px auto;
 }
 
 /*Skills Block*/
