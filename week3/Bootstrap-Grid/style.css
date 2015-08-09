@@ -1,5 +1,12 @@
 /*General Styles*/
 
+body {
+	font-size: 1.6em;
+}
+
+h1 {
+	font-size: 56px;
+}
 
 a.glyphicon-menu-down.text-center {
 	display: block;
