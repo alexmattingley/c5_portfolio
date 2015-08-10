@@ -46,7 +46,24 @@ $('.more-projects').on('click', function(){
 });
 
 
+
+var e_name = 'alexmattingley';
+var server_name = '@gmail.com';
+var email_add = $('.email_add')
+var pNum = '(949) 280-6557';
+var phe_class = $('.p_Num');
+
+//Function for creating and adding email address to document
+function add_contact_info() {
+	email_add.text(e_name + server_name);
+	phe_class.text(pNum);
+}
+
+
 $(document).ready(function(){
 	setTimeout(hero_second_fade, 2000);
 	hero_text_fadeIn();
+
+	//adds email addresses throughout
+	add_contact_info();
 });
