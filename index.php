@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+<?php include 'inc/header.php'; ?>
 			<div class="hero-text text-center">
 				<h1>hello.</h1>
 				<h4>My name is Alex Mattingley and I develop websites and applications</h4>
@@ -132,4 +132,4 @@
 				<a class="email_add" href="mailto:alexmattingley@gmail.com"></a>
 			</div>
 		</div>
-		<?php include 'footer.php'; ?>
+		<?php include 'inc/footer.php'; ?>
