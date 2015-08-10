@@ -55,9 +55,7 @@ $('.more-projects').on('click', function(){
 });
 
 
-//Function for creating and adding email address to document
-
-
+//Function for creating and adding email address and phone to document
 function add_contact_info() {
 	email_add.html(e_icon + e_name + server_name);
 	phe_class.html(phe_icon + pNum);
