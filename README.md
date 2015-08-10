@@ -26,4 +26,3 @@ General requirements:
     - var e_name = 'daniel.paschal';
     - var e_server = '@learningfuze.com';
 - Must be responsive and mobile-friendly.  Probably best to use bootstrap!
->>>>>>> b1074bdc20031034d8ce72c63882a3b5a769b089

@@ -4,6 +4,13 @@ Globals
 
 var project_load_click = 0;
 
+// Globals for the email/phone generation
+var e_name = 'alexmattingley';
+var server_name = '@gmail.com';
+var email_add = $('.email_add')
+var pNum = '(949) 280-6557';
+var phe_class = $('.p_Num');
+
 // Basic Function for the hero banner h1 fadeIn, called in the document ready
 function hero_text_fadeIn() {
 	$('.hero-text h1').fadeIn(3000);	
@@ -45,13 +52,6 @@ $('.more-projects').on('click', function(){
 	console.log(project_load_click);
 });
 
-
-
-var e_name = 'alexmattingley';
-var server_name = '@gmail.com';
-var email_add = $('.email_add')
-var pNum = '(949) 280-6557';
-var phe_class = $('.p_Num');
 
 //Function for creating and adding email address to document
 function add_contact_info() {
