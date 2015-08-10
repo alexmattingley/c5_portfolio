@@ -5,11 +5,13 @@ Globals
 var project_load_click = 0;
 
 // Globals for the email/phone generation
-var e_name = 'alexmattingley';
-var server_name = '@gmail.com';
 var email_add = $('.email_add')
-var pNum = '(949) 280-6557';
+var e_icon = '<span class="glyphicon glyphicon-envelope"></span>';
+var e_name = ' alexmattingley';
+var server_name = '@gmail.com';
 var phe_class = $('.p_Num');
+var phe_icon = '<span class="glyphicon glyphicon-phone-alt"></span>'
+var pNum = ' (949) 280-6557';
 
 // Basic Function for the hero banner h1 fadeIn, called in the document ready
 function hero_text_fadeIn() {
@@ -54,9 +56,11 @@ $('.more-projects').on('click', function(){
 
 
 //Function for creating and adding email address to document
+
+
 function add_contact_info() {
-	email_add.text(e_name + server_name);
-	phe_class.text(pNum);
+	email_add.html(e_icon + e_name + server_name);
+	phe_class.html(phe_icon + pNum);
 }
 
 
