@@ -9,7 +9,6 @@
 					<h4>Connect</h4>
 					<p>
 						<i class="fa fa-github fa-2x"></i>
-						<i class="fa fa-facebook-square fa-2x"></i>
 						<i class="fa fa-linkedin-square fa-2x"></i>
 					</p>
 				</li>
