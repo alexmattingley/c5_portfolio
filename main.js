@@ -13,6 +13,15 @@ var phe_class = $('.p_Num');
 var phe_icon = '<span class="glyphicon glyphicon-phone-alt"></span>'
 var pNum = ' (949) 280-6557';
 
+
+function break_apart_word(){
+	var hero_h1 = $('.hero-text h1').text();
+	console.log(hero_h1);
+	for(var i = 0; i < hero_h1.length; i++){
+		var hero_h1_letter = hero_h1[i];
+		console.log(hero_h1_letter);
+	}
+}
 //basic function for fadein of text in the individual projects
 $('.indiv-project').on('mouseenter', function(){
 	$(this).find('p').fadeIn(2000);
@@ -52,7 +61,8 @@ function add_contact_info() {
 
 
 $(document).ready(function(){
-	setTimeout(hero_second_fade, 2000);
+
+	break_apart_word();
 
 	//adds email addresses throughout
 	add_contact_info();
