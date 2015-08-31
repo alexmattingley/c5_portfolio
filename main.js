@@ -16,10 +16,9 @@ var pNum = ' (949) 280-6557';
 
 function break_apart_word(){
 	var hero_h1 = $('.hero-text h1').text();
-	console.log(hero_h1);
 	for(var i = 0; i < hero_h1.length; i++){
-		var hero_h1_letter = hero_h1[i];
-		console.log(hero_h1_letter);
+		var hero_h1_letter = hero_h1[i]; //each indiv letter in hello
+		$('.hero-text h2').append(hero_h1_letter);
 	}
 }
 //basic function for fadein of text in the individual projects
