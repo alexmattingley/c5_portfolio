@@ -42,6 +42,11 @@ NOTE: There is probably a better way to do this so it adjusts depending on the n
 rows. I will consider making this dynamic.
 *************/
 $('.more-projects').on('click', function(){
+	vert_scroll();
+});
+
+
+function vert_scroll() {
 	project_load_click = ++project_load_click;
 	if (project_load_click < 2) {
 		$('#proj-row-1').animate({top: '-=100%'}, 2000);
@@ -52,8 +57,20 @@ $('.more-projects').on('click', function(){
 		project_load_click = 0;
 	}
 	console.log(project_load_click);
+}
+var skill_row_height = $('#skill-row-1').height();
+var skill_header_height = $('.skills-block-header').height();
+var correct_container_height = skill_row_height + skill_header_height;
+console.log(correct_container_height);
+$('.skills-block .container-fluid').css('height', correct_container_height);
+
+$('.more-skills').on('click', function(){
+	skills_expand();
 });
 
+function skills_expand(){
+	$('.skills-block .container-fluid').animate({'height': 'auto'}, 2000);
+}
 
 //Function for creating and adding email address and phone to document
 function add_contact_info() {

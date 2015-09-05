@@ -216,9 +216,6 @@ label {
 	}
 }
 
-@media(min-width: 1200px){
-
-}
 
 /*Skills Block*/
 
@@ -242,6 +239,15 @@ label {
 	display: block;
 }
 
+.skills-block h5 a {
+	margin: 30px auto;
+	font-size: 1.7em;
+	color: white;
+}
+
+.skills-block .container-fluid {
+	overflow: hidden;
+}
 
 
 /*Contact Form*/
