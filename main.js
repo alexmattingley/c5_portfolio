@@ -19,8 +19,20 @@ function break_apart_word(){
 	for(var i = 0; i < hero_h1.length; i++){
 		var hero_h1_letter = hero_h1[i]; //each indiv letter in hello
 		console.log(hero_h1_letter);
-		$('.hero-text h2').append(hero_h1_letter);
+		var letter_one = hero_h1[0];
+		var letter_two = hero_h1[1];
 	}
+	function display_letter_one() {
+		$('.hero-text h2').append(letter_one);
+	}
+
+	setTimeout(display_letter_one,500);
+
+	function display_letter_two() {
+		$('.hero-text h2').append(letter_two);
+	}
+
+	setTimeout(display_letter_two,1000);
 }
 //basic function for fadein of text in the individual projects
 $('.indiv-project').on('mouseenter', function(){
