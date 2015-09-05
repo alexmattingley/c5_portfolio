@@ -13,8 +13,10 @@
 				<li class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-lg-3 col-lg-offset-1">
 					<h4>Location</h4>
 					<address>
-					  1501 Tahiti Ave<br>
-					  Laguna Beach, CA 92651<br>
+						<a href="https://www.google.com/maps/place/1501+Tahiti+Ave,+Laguna+Beach,+CA+92651/@33.5472309,-117.769936,17z/data=!3m1!4b1!4m2!3m1!1s0x80dce5c78356c473:0xcd4795846c860057">
+						  1501 Tahiti Ave<br>
+						  Laguna Beach, CA 92651<br>
+						</a>
 					</address>
 				</li>
 			</ul>
