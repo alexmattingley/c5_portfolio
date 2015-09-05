@@ -283,6 +283,9 @@ footer {
 
 footer a {
 	color: white;
+}
+
+footer .contact-li a{
 	display: block;
 }
 
