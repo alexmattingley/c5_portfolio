@@ -4,14 +4,6 @@ Globals
 
 var project_load_click = 0;
 
-// Globals for the email/phone generation
-var email_add = $('.email_add')
-var e_icon = '<span class="glyphicon glyphicon-envelope"></span>';
-var e_name = ' alexmattingley';
-var server_name = '@gmail.com';
-var phe_class = $('.p_Num');
-var phe_icon = '<span class="glyphicon glyphicon-phone-alt"></span>'
-var pNum = ' (949) 280-6557';
 
 // Basic Function for the hero banner h1 fadeIn, called in the document ready
 function hero_text_fadeIn() {
@@ -30,22 +22,24 @@ $('.indiv-project').on('mouseenter', function(){
 });
 
 //This sets the project rows the correct height in order that the vertical carousel
-//below will work properly. 
-var project_row_height = $('.project-row').height();
-$('.work-block ul.list-unstyled').css('height', project_row_height);
+//below will work properly.
+
+/**************
+ * functionName: set_work_block_height
+ * @purpose: This sets the height of the work block (called in doc load)
+ */
+function set_work_block_height(){
+	var project_row_height = $('.project-row').height();
+	$('.work-block ul.list-unstyled').css('height', project_row_height);
+}
 
 /*************
-This function is the meat and potatoes of the vert scroll. On the click of the 
-more-projects button, it animates the rows to scroll up or down depending on
-if the user is currently looking at the first or the second row of projects.
-NOTE: There is probably a better way to do this so it adjusts depending on the number of
-rows. I will consider making this dynamic.
-*************/
-$('.more-projects').on('click', function(){
-	vert_scroll();
-});
-
-
+ This function is the meat and potatoes of the vert scroll. On the click of the
+ more-projects button, it animates the rows to scroll up or down depending on
+ if the user is currently looking at the first or the second row of projects.
+ NOTE: There is probably a better way to do this so it adjusts depending on the number of
+ rows. I will consider making this dynamic.
+ *************/
 function vert_scroll() {
 	project_load_click = ++project_load_click;
 	if (project_load_click < 2) {
@@ -58,25 +52,57 @@ function vert_scroll() {
 	}
 	console.log(project_load_click);
 }
-var skill_row_height_1 = $('#skill-row-1').height();
-var skill_row_height_2 = $('#skill-row-2').height();
-var skill_header_height = $('.skills-block-header').height();
-var first_container_height = skill_row_height_1 + skill_header_height;
-var second_container_height = first_container_height + skill_row_height_2;
-console.log(first_container_height);
-$('.skills-block .container-fluid').css('height', first_container_height);
+
+
+/**********************
+ * functionName: set_skill_row_height();
+ * @purpose: set skill block height intially and define the second height for the container which is used in the skills_expand
+ * @params: N/A;
+ * @globals: second_container_height
+ * @return: N/A;
+ */
+var second_container_height;
+function set_skill_block_height() {
+	var skill_row_height_1 = $('#skill-row-1').height();
+	var skill_row_height_2 = $('#skill-row-2').height();
+	var skill_header_height = $('.skills-block-header').height();
+	var first_container_height = skill_row_height_1 + skill_header_height;
+	second_container_height = first_container_height + skill_row_height_2;
+	$('.skills-block .container-fluid').css('height', first_container_height);
+}
+
+/**********************
+ * functionName: skills_expand();
+ * @purpose: expand the height of the container by the height of the second skill set, there might be a better way to do this
+ * @params: N/A;
+ * @globals: second_container_height
+ * @return: N/A;
+ */
+
+function skills_expand(){
+	$('.skills-block .container-fluid').animate({height: second_container_height}, 2000);
+}
 
 $('.more-skills').on('click', function(){
 	skills_expand();
 });
 
-function skills_expand(){
-	console.log('skillz');
-	$('.skills-block .container-fluid').animate({height: second_container_height}, 2000);
-}
+/**********************
+ * functionName: add_contact_info();
+ * @purpose: dynamically adds contact information
+ * @params: N/A;
+ * @globals: N/A
+ * @return: N/A;
+ */
 
-//Function for creating and adding email address and phone to document
 function add_contact_info() {
+	var email_add = $('.email_add');
+	var e_icon = '<span class="glyphicon glyphicon-envelope"></span>';
+	var e_name = ' alexmattingley';
+	var server_name = '@gmail.com';
+	var phe_class = $('.p_Num');
+	var phe_icon = '<span class="glyphicon glyphicon-phone-alt"></span>';
+	var pNum = ' (949) 280-6557';
 	email_add.html(e_icon + e_name + server_name);
 	phe_class.html(phe_icon + pNum);
 }
@@ -85,7 +111,7 @@ function add_contact_info() {
 $(document).ready(function(){
 	setTimeout(hero_second_fade, 2000);
 	hero_text_fadeIn();
-
-	//adds email addresses throughout
+	set_work_block_height();
+	set_skill_block_height();
 	add_contact_info();
 });
