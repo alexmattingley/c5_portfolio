@@ -18,6 +18,7 @@ function break_apart_word(){
 	var hero_h1 = $('.hero-text h1').text();
 	for(var i = 0; i < hero_h1.length; i++){
 		var hero_h1_letter = hero_h1[i]; //each indiv letter in hello
+		console.log(hero_h1_letter);
 		$('.hero-text h2').append(hero_h1_letter);
 	}
 }
