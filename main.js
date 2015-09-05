@@ -58,18 +58,21 @@ function vert_scroll() {
 	}
 	console.log(project_load_click);
 }
-var skill_row_height = $('#skill-row-1').height();
+var skill_row_height_1 = $('#skill-row-1').height();
+var skill_row_height_2 = $('#skill-row-2').height();
 var skill_header_height = $('.skills-block-header').height();
-var correct_container_height = skill_row_height + skill_header_height;
-console.log(correct_container_height);
-$('.skills-block .container-fluid').css('height', correct_container_height);
+var first_container_height = skill_row_height_1 + skill_header_height;
+var second_container_height = first_container_height + skill_row_height_2;
+console.log(first_container_height);
+$('.skills-block .container-fluid').css('height', first_container_height);
 
 $('.more-skills').on('click', function(){
 	skills_expand();
 });
 
 function skills_expand(){
-	$('.skills-block .container-fluid').animate({'height': 'auto'}, 2000);
+	console.log('skillz');
+	$('.skills-block .container-fluid').animate({height: second_container_height}, 2000);
 }
 
 //Function for creating and adding email address and phone to document
