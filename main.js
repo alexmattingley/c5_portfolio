@@ -4,28 +4,27 @@ Globals
 
 var project_load_click = 0;
 
+var h1_string = "hello.";
+var h4_string = "My name is Alex Mattingley and I develop websites and applications";
+var current_string_index = 0;
+var min_interval = 200;
+var max_interval = 400;
+var interval_delta = max_interval - min_interval;
 
-
-function break_apart_word(){
-	var hero_h1 = $('.hero-text h1').text();
-	for(var i = 0; i < hero_h1.length; i++){
-		var hero_h1_letter = hero_h1[i]; //each indiv letter in hello
-		console.log(hero_h1_letter);
-		var letter_one = hero_h1[0];
-		var letter_two = hero_h1[1];
+function type_effect(target_dom, output_string){
+	if(current_string_index <  output_string.length){
+		console.log(target_dom);
+		target_dom.text(target_dom.text()+output_string[current_string_index++]);
+		var random_time = Math.floor(Math.random()*interval_delta+ min_interval);
+		setTimeout(function(){
+			type_effect(target_dom, output_string)
+		}, random_time);
+	}else{
+		current_string_index = 0;
 	}
-	function display_letter_one() {
-		$('.hero-text h2').append(letter_one);
-	}
 
-	setTimeout(display_letter_one,500);
-
-	function display_letter_two() {
-		$('.hero-text h2').append(letter_two);
-	}
-
-	setTimeout(display_letter_two,1000);
 }
+
 //basic function for fadein of text in the individual projects
 $('.indiv-project').on('mouseenter', function(){
 	$(this).find('p').fadeIn(2000);
@@ -119,9 +118,13 @@ function add_contact_info() {
 
 
 $(document).ready(function(){
+	var $hero_h1 =  $('.hero-text h1');
+	var $hero_h4 = $('.hero-text h4');
 
-	break_apart_word();
-
+	type_effect($hero_h1, h1_string);
+	setTimeout(function(){
+		type_effect($hero_h4, h4_string);
+	},3000);
 	//adds email addresses throughout
 	set_work_block_height();
 	set_skill_block_height();
