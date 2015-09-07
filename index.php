@@ -85,10 +85,29 @@
 		</div>
 		<div class="skills-block">
 			<div class="container-fluid">
-				<a name="work"></a>
-				<h2 class="text-center">Code Skills & Languages</h2>
-				<p class="text-center">I speak to the machines so you don't have to (unless you want to of course)</p>
-				<ul class="list-unstyled">
+				<div class="skills-block-header">
+					<a name="work"></a>
+					<h2 class="text-center">Code Skills & Languages</h2>
+					<p class="text-center">I speak to the machines so you don't have to (unless you want to of course)</p>
+				</div>
+				<ul class="list-unstyled row" id="skill-row-1">
+					<li class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-lg-2 col-lg-offset-2">
+						<i class="fa fa-wordpress fa-5x text-center"></i>
+						<h4 class="text-center">Wordpress</h4>
+						<p class="text-center">If you are looking to develop a useable hard to break site, wordpress is a good way to go. I can help not only build your site but I can teach you the ins and outs of basic site managment.</p>
+					</li>
+					<li class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-lg-2 col-lg-offset-1">
+						<i class='fa fa-github fa-5x text-center'></i>
+						<h4 class="text-center">Git & Github</h4>
+						<p class="text-center">Gone are the days of "oh-shit-oh-shit what did I do?!?!" development. The first thing I learned as a developer was version control and I won't start a project without good old git.</p>
+					</li>
+					<li class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-lg-2 col-lg-offset-1">
+						<i class="fa fa-code fa-5x text-center"></i>
+						<h4 class="text-center">Code</h4>
+						<p class="text-center">I use HTML5 and PHP for structure, CSS3 for styling, and Javascript/JQuery for interaction.</p>
+					</li>
+				</ul>
+				<ul class="list-unstyled row" id="skill-row-2">
 					<li class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-lg-2 col-lg-offset-2">
 						<i class="fa fa-wordpress fa-5x text-center"></i>
 						<h4 class="text-center">Wordpress</h4>
@@ -106,6 +125,7 @@
 					</li>
 				</ul>
 			</div>
+			<h5 class="text-center more-skills"><a href="javascript:;">More Skills</a><i class="glyphicon glyphicon-menu-down text-center"></i></h5>
 		</div>
 		<div class="contact-block container-fluid">
 			<a name="contact"></a>
