@@ -5,17 +5,20 @@ Globals
 var project_load_click = 0;
 
 var h1_string = "hello.";
-var h4_string = "My name is Alex Mattingley and I develop websites and applications";
+var h4_string = "My name is Alex Mattingley and I develop websites and applications.";
 var current_string_index = 0;
-var min_interval = 200;
-var max_interval = 400;
+var min_interval = 100;
+var max_interval = 200;
 var interval_delta = max_interval - min_interval;
+var $hero_h1 =  $('.hero-text h1');
+var $hero_h4 = $('.hero-text h4');
 
 function type_effect(target_dom, output_string){
+
 	if(current_string_index <  output_string.length){
-		console.log(target_dom);
 		target_dom.text(target_dom.text()+output_string[current_string_index++]);
 		var random_time = Math.floor(Math.random()*interval_delta+ min_interval);
+		console.log(random_time);
 		setTimeout(function(){
 			type_effect(target_dom, output_string)
 		}, random_time);
@@ -118,13 +121,11 @@ function add_contact_info() {
 
 
 $(document).ready(function(){
-	var $hero_h1 =  $('.hero-text h1');
-	var $hero_h4 = $('.hero-text h4');
 
 	type_effect($hero_h1, h1_string);
 	setTimeout(function(){
 		type_effect($hero_h4, h4_string);
-	},3000);
+	},2000);
 	//adds email addresses throughout
 	set_work_block_height();
 	set_skill_block_height();
