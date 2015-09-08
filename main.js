@@ -4,16 +4,33 @@ Globals
 
 var project_load_click = 0;
 
+var h1_string = "hello.";
+var h4_string = "My name is Alex Mattingley and I develop websites and applications.";
+var current_string_index = 0;
+var $hero_h1 =  $('.hero-text h1');
+var $hero_h4 = $('.hero-text h4');
 
-// Basic Function for the hero banner h1 fadeIn, called in the document ready
-function hero_text_fadeIn() {
-	$('.hero-text h1').fadeIn(3000);	
-}
+/**************
+ * functionName: type_effect
+ * @purpose: types out the text in hero-text
+ * @params: target_dom, output_string, min_interval, max_interval;
+ * @globals: h1_string, h4_string, current_string_index, $hero_h1, $hero_h4
+ * @returns: N/A
+ */
 
-//basic function for the rest of the text and the down arrow fadeIn, called in the document ready
-function hero_second_fade() {
-	$('.hero-text h4').fadeIn(2000);
-	$('.hero-text a.glyphicon-menu-down.text-center').fadeIn(2000);
+function type_effect(target_dom, output_string, min_interval, max_interval){
+	var interval_delta = max_interval - min_interval;
+	if(current_string_index <  output_string.length){
+		target_dom.text(target_dom.text()+output_string[current_string_index++]);
+		var random_time = Math.floor(Math.random()*interval_delta+ min_interval);
+		console.log(random_time);
+		setTimeout(function(){
+			type_effect(target_dom, output_string, max_interval, min_interval)
+		}, random_time);
+	}else{
+		current_string_index = 0;
+	}
+
 }
 
 //basic function for fadein of text in the individual projects
@@ -109,9 +126,16 @@ function add_contact_info() {
 
 
 $(document).ready(function(){
-	setTimeout(hero_second_fade, 2000);
-	hero_text_fadeIn();
+
+	type_effect($hero_h1, h1_string, 200, 300);
+
+	setTimeout(function(){
+		type_effect($hero_h4, h4_string, 50, 150);
+	},2000);
+
 	set_work_block_height();
+
 	set_skill_block_height();
+
 	add_contact_info();
 });

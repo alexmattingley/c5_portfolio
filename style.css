@@ -63,14 +63,9 @@ label {
 	color: #FF8973;
 }
 
-
-.hero-text h1, .hero-text h4 {
-	display: none;
-}
-
 .hero-text a.glyphicon-menu-down.text-center {
 	display: none;
-} 
+}
 /*Work Section*/
 
 .work-block {
@@ -292,7 +287,11 @@ footer a {
 	color: white;
 }
 
+<<<<<<< HEAD
+footer .contact a {
+=======
 footer .contact-li a{
+>>>>>>> master
 	display: block;
 }
 
