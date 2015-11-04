@@ -133,6 +133,10 @@ $(document).ready(function(){
 		type_effect($hero_h4, h4_string, 50, 150);
 	},2000);
 
+	$('body').on('click', '.work-block h5', function(){
+		vert_scroll();
+	});
+
 	set_work_block_height();
 
 	set_skill_block_height();
