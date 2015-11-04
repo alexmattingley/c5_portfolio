@@ -1,19 +1,3 @@
-$(document).ready(function(){
-
-	type_effect($hero_h1, h1_string, 200, 300);
-
-	setTimeout(function(){
-		type_effect($hero_h4, h4_string, 50, 150);
-	},2000);
-
-	set_work_block_height();
-
-	set_skill_block_height();
-
-	add_contact_info();
-});
-
-
 /****************
 Globals
 *****************/
@@ -139,3 +123,19 @@ function add_contact_info() {
 	email_add.html(e_icon + e_name + server_name);
 	phe_class.html(phe_icon + pNum);
 }
+
+
+$(document).ready(function(){
+
+	type_effect($hero_h1, h1_string, 200, 300);
+
+	setTimeout(function(){
+		type_effect($hero_h4, h4_string, 50, 150);
+	},2000);
+
+	set_work_block_height();
+
+	set_skill_block_height();
+
+	add_contact_info();
+});
