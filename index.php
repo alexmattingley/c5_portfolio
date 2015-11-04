@@ -11,7 +11,17 @@
 				<h2 class="text-center">Recent Projects</h2>
 				<ul class="list-unstyled clearfix">
 					<div class="project-row clearfix" id="proj-row-1">
-						<li class="col-sm-4"> 
+						<li class="col-sm-4">
+							<div class="grh-img text-center indiv-project">
+								<div class="text-cover">
+									<div class="text-container">
+										<h3><a href="greenroomhunter.php">Green Room Hunter</a></h3>
+										<p>A data tool for surfers</p>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li class="col-sm-4">
 							<div class="mbsr-img text-center indiv-project">
 								<a class="a_wrap" href="mbsr.php">
 									<div class="text-cover">
@@ -21,16 +31,6 @@
 										</div>
 									</div>
 								</a>
-							</div>
-						</li>
-						<li class="col-sm-4">
-							<div class="karen-img text-center indiv-project">
-								<div class="text-cover">
-									<div class="text-container">
-										<h3><a href="#">Karen Redding</a></h3>
-										<p>Blah Blah Blah</p>
-									</div>
-								</div>
 							</div>
 						</li>
 						<li class="col-sm-4"> 

@@ -43,9 +43,9 @@ label {
 /*Hero Banner*/
 
 .hero-banner {
-	background: url('images/calafia.jpg') no-repeat;
+	background: url('images/k39.JPG') no-repeat;
 	height: 100vh;
-	color: white;
+	color: #339D8E;
 	background-size: cover;
 	background-attachment: fixed;
 }
@@ -55,7 +55,7 @@ label {
 }
 
 .hero-banner .navbar a {
-	color: white;
+	color: #339D8E;
 }
 
 .hero-banner .navbar a:hover {
@@ -84,6 +84,11 @@ label {
 
 .work-block h5 a {
 	color: #339D8E;
+}
+
+
+.grh-img {
+	background: url('images/calafia.jpg') no-repeat;
 }
 
 
