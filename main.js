@@ -1,3 +1,19 @@
+$(document).ready(function(){
+
+	type_effect($hero_h1, h1_string, 200, 300);
+
+	setTimeout(function(){
+		type_effect($hero_h4, h4_string, 50, 150);
+	},2000);
+
+	set_work_block_height();
+
+	set_skill_block_height();
+
+	add_contact_info();
+});
+
+
 /****************
 Globals
 *****************/
@@ -7,8 +23,8 @@ var project_load_click = 0;
 var h1_string = "hello.";
 var h4_string = "My name is Alex Mattingley and I develop websites and applications.";
 var current_string_index = 0;
-var $hero_h1 =  $('.hero-text h1');
-var $hero_h4 = $('.hero-text h4');
+var $hero_h1 =  $('.home-page-hero h1');
+var $hero_h4 = $('.home-page-hero h4');
 
 /**************
  * functionName: type_effect
@@ -123,19 +139,3 @@ function add_contact_info() {
 	email_add.html(e_icon + e_name + server_name);
 	phe_class.html(phe_icon + pNum);
 }
-
-
-$(document).ready(function(){
-
-	type_effect($hero_h1, h1_string, 200, 300);
-
-	setTimeout(function(){
-		type_effect($hero_h4, h4_string, 50, 150);
-	},2000);
-
-	set_work_block_height();
-
-	set_skill_block_height();
-
-	add_contact_info();
-});
