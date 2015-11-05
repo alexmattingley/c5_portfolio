@@ -13,12 +13,14 @@
 					<div class="project-row clearfix" id="proj-row-1">
 						<li class="col-sm-4">
 							<div class="grh-img text-center indiv-project">
-								<div class="text-cover">
-									<div class="text-container">
-										<h3><a href="greenroomhunter.php">Green Room Hunter</a></h3>
-										<p>A data tool for surfers</p>
+								<a class="a_wrap" href="greenroomhunter.php">
+									<div class="text-cover">
+										<div class="text-container">
+											<h3>Green Room Hunter</h3>
+											<p>A data tool for surfers.</p>
+										</div>
 									</div>
-								</div>
+								</a>
 							</div>
 						</li>
 						<li class="col-sm-4">
@@ -33,14 +35,16 @@
 								</a>
 							</div>
 						</li>
-						<li class="col-sm-4"> 
-							<div class="memory-img text-center indiv-project">
-								<div class="text-cover">
-									<div class="text-container">
-										<h3><a href="#">Memory Match Game</a></h3>
-										<p>A slightly offensive Memory Match Game</p>
+						<li class="col-sm-4">
+							<div class="karen-img text-center indiv-project">
+								<a class="a_wrap" href="karenredding.php">
+									<div class="text-cover">
+										<div class="text-container">
+											<h3>Karen Redding Ph.D</h3>
+											<p>A Multi-skill Wordpress site</p>
+										</div>
 									</div>
-								</div>
+								</a>
 							</div>
 						</li>
 					</div>
@@ -107,14 +111,14 @@
 				</ul>
 				<ul class="list-unstyled row" id="skill-row-2">
 					<li class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-lg-2 col-lg-offset-2">
-						<i class="fa fa-wordpress fa-5x text-center"></i>
-						<h4 class="text-center">Wordpress</h4>
-						<p class="text-center">If you are looking to develop a useable hard to break site, wordpress is a good way to go. I can help not only build your site but I can teach you the ins and outs of basic site managment.</p>
+						<i class="fa fa-database fa-5x text-center"></i>
+						<h4 class="text-center">Database Managment</h4>
+						<p class="text-center">I know my way around MySql, I prefer to use phpMyAdmin or Sequel Pro for database Management.</p>
 					</li>
 					<li class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-lg-2 col-lg-offset-1">
-						<i class='fa fa-github fa-5x text-center'></i>
-						<h4 class="text-center">Git & Github</h4>
-						<p class="text-center">Gone are the days of "oh-shit-oh-shit what did I do?!?!" development. The first thing I learned as a developer was version control and I won't start a project without good old git.</p>
+						<i class='fa fa-server fa-5x text-center'></i>
+						<h4 class="text-center">Server Side</h4>
+						<p class="text-center">I have set up and used both Linux and Ubuntu servers live and locally.</p>
 					</li>
 					<li class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-lg-2 col-lg-offset-1">
 						<i class="fa fa-code fa-5x text-center"></i>

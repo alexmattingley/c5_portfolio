@@ -8,23 +8,24 @@
 			<div class="project_description col-sm-10 col-sm-offset-1 col-lg-8 col-lg-offset-2">
 				<h2>Green Room Hunter</h2>
 				<div class="text-block">
-					<p>When Allan originally came to us with the idea to create a website that encompased what he did as a MBSR teacher Lucy and I immediately started working on developing a simple beautiful useable wordpress site. Although there is information on the site, its primary purpose is to convey a feeling hence the focus on images and short readable blocks of text.</p>
-					<p>Lucy did the lions share of the photography and image collection for the site. We worked together to design the right look, feel and user experience and then I took up the torch and did the development side of things. I am quite proud of the way it turned out and I hope you can enjoy it as well.</p>
-					<p>Want to see the project live? Click <a href="http://mbsrmentorship.com/">here.</a></p>
-				<!-- <p>Want to see the Code behind the magic? Click</p><a href="#">here</a> -->
+					<p>Ever since I fell in love with surfing at the young age of seven, I have been fascinated with surf forecasting.
+					Green room hunter is passion project for me and something that will be continually updated and improved in the coming years.
+					The purpose of the site is to centralize the raw data that us surfers use on a daily basis to assess conditions.</p>
+					<p>I did an <b>extensive</b> write up about the project in the github readme, click <a target="_blank" href="https://github.com/alexmattingley/C5_final_project#c5_final_project--green-room-hunter">here.</a> if you are interested in the proccess of how I developed this site.</p>
+					<p>Want to see the project live? Click <a href="http://greenroomhunter.com/">here.</a></p>
 				</div>
 			</div>
 			<div class="project_screenshots">
-				<img class="col-sm-10 col-sm-offset-1 col-lg-8 col-lg-offset-2" src="images/mbsr-screenshots/mbsr_hero_block.png" alt="screenshot of mbsrmentorship.com">
-				<img class="col-sm-10 col-sm-offset-1 col-lg-8 col-lg-offset-2" src="images/mbsr-screenshots/mbsr_about_block.png" alt="screenshot of mbsrmentorship.com">
-				<img class="col-sm-10 col-sm-offset-1 col-lg-8 col-lg-offset-2" src="images/mbsr-screenshots/mbsr_contact_block.png" alt="screenshot of mbsrmentorship.com">
-				<img class="col-sm-10 col-sm-offset-1 col-lg-8 col-lg-offset-2" src="images/mbsr-screenshots/mbsr_testimonials_block.png" alt="screenshot of mbsrmentorship.com">
-				<img class="col-sm-10 col-sm-offset-1 col-lg-8 col-lg-offset-2" src="images/mbsr-screenshots/mbsr_quote_block.png" alt="screenshot of mbsrmentorship.com">
-				<img class="mobile-img" src="images/mbsr-screenshots/mbsr_mobile_1.png" alt="screenshot of mbsrmentorship.com">
-				<img class="mobile-img" src="images/mbsr-screenshots/mbsr_mobile_2.png" alt="screenshot of mbsrmentorship.com">
+				<img class="col-sm-10 col-sm-offset-1 col-lg-8 col-lg-offset-2" src="images/grh-screenshots/Home_hero_full.png" alt="screenshot of greenroomhunter.com">
+				<img class="col-sm-10 col-sm-offset-1 col-lg-8 col-lg-offset-2" src="images/grh-screenshots/home_locations_full.png" alt="screenshot of greenroomhunter.com">
+				<img class="col-sm-10 col-sm-offset-1 col-lg-8 col-lg-offset-2" src="images/grh-screenshots/default_location_buoy_full.png" alt="screenshot of greenroomhunter.com">
+				<img class="col-sm-10 col-sm-offset-1 col-lg-8 col-lg-offset-2" src="images/grh-screenshots/default_location_tide_full.png" alt="screenshot of greenroomhunter.com">
+				<img class="mobile-img" src="images/grh-screenshots/home_hero_mobile.png" alt="screenshot of greenroomhunter.com">
+				<img class="mobile-img" src="images/grh-screenshots/default_location_buoy_mobile.png" alt="screenshot of greenroomhunter.com">
+				<img class="mobile-img" src="images/grh-screenshots/default_location_tide_mobile.png" alt="screenshot of greenroomhunter.com">
 			</div>
 			<div class="project_links col-sm-10 col-sm-offset-1 col-lg-8 col-lg-offset-2">
-				<a href="http://mbsrmentorship.com/">See the Project Live</a>
+				<a target="_blank" href="http://greenroomhunter.com/">See the Project Live</a>
 				<!-- <a href="#">See the Code behind the magic</a> -->
 			</div>
 		</div>
