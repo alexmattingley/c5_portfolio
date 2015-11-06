@@ -89,8 +89,8 @@
 			<div class="container-fluid">
 				<div class="skills-block-header">
 					<a name="work"></a>
-					<h2 class="text-center">Code Skills & Languages</h2>
-					<p class="text-center">I speak to the machines so you don't have to (unless you want to of course)</p>
+					<h2 class="text-center">Skills & Languages</h2>
+					<p class="text-center">I speak to the machines so you don't have to.</p>
 				</div>
 				<ul class="list-unstyled row" id="skill-row-1">
 					<li class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-lg-2 col-lg-offset-2">
@@ -99,31 +99,31 @@
 						<p class="text-center">If you are looking to develop a useable hard to break site, wordpress is a good way to go. I can help not only build your site but I can teach you the ins and outs of basic site managment.</p>
 					</li>
 					<li class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-lg-2 col-lg-offset-1">
-						<i class='fa fa-github fa-5x text-center'></i>
-						<h4 class="text-center">Git & Github</h4>
-						<p class="text-center">Gone are the days of "oh-shit-oh-shit what did I do?!?!" development. The first thing I learned as a developer was version control and I won't start a project without good old git.</p>
-					</li>
-					<li class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-lg-2 col-lg-offset-1">
 						<i class="fa fa-code fa-5x text-center"></i>
 						<h4 class="text-center">Code</h4>
-						<p class="text-center">I use HTML5 and PHP for structure, CSS3 for styling, and Javascript/JQuery for interaction.</p>
+						<p class="text-center">I can write HTML, PHP, CSS (with and without Bootstrap), Sass and Javascript/JQuery. I use AJAX and curl for single page applications and working with remote data. I have also mastered the chrome developer tools, Sublime Text and PHPStorm.</p>
+					</li>
+					<li class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-lg-2 col-lg-offset-1">
+						<i class='fa fa-github fa-5x text-center'></i>
+						<h4 class="text-center">Git & Github</h4>
+						<p class="text-center">Gone are the days of "!@#$%* what did I do?!?!" development. The first thing I learned as a developer was version control and I won't start a project without good old git.</p>
 					</li>
 				</ul>
 				<ul class="list-unstyled row" id="skill-row-2">
 					<li class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-lg-2 col-lg-offset-2">
 						<i class="fa fa-database fa-5x text-center"></i>
 						<h4 class="text-center">Database Managment</h4>
-						<p class="text-center">I know my way around MySql, I prefer to use phpMyAdmin or Sequel Pro for database Management.</p>
+						<p class="text-center">I know my way around MySql and I prefer to use phpMyAdmin or Sequel Pro for database Management.</p>
 					</li>
 					<li class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-lg-2 col-lg-offset-1">
-						<i class='fa fa-server fa-5x text-center'></i>
-						<h4 class="text-center">Server Side</h4>
-						<p class="text-center">I have set up and used both Linux and Ubuntu servers live and locally.</p>
+						<i class='fa fa-comments fa-5x text-center'></i>
+						<h4 class="text-center">Communication and Project Management</h4>
+						<p class="text-center">I do speak code, but I also speak English and Spanish and its usually over a cup of tea.</p>
 					</li>
 					<li class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-lg-2 col-lg-offset-1">
-						<i class="fa fa-code fa-5x text-center"></i>
-						<h4 class="text-center">Code</h4>
-						<p class="text-center">I use HTML5 and PHP for structure, CSS3 for styling, and Javascript/JQuery for interaction.</p>
+						<i class="fa fa-graduation-cap fa-5x text-center"></i>
+						<h4 class="text-center">Continually Learning</h4>
+						<p class="text-center">I love learning new languages and skills. I am currently learning Composer, Bower and Sass in conjunction with Wordpress.</p>
 					</li>
 				</ul>
 			</div>
