@@ -23,12 +23,12 @@ h2 {
 	color: grey;
 }
 
-button.btn-green {
+.btn-green {
 	background: #339D8E;
 	color: white;
 }
 
-button.btn-green:hover {
+.btn-green:hover {
 	color: grey;
 }
 

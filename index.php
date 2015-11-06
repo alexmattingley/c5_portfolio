@@ -129,30 +129,5 @@
 			</div>
 			<h5 class="text-center more-skills"><a href="javascript:;">More Skills</a><i class="glyphicon glyphicon-menu-down text-center"></i></h5>
 		</div>
-		<div class="contact-block container-fluid">
-			<a name="contact"></a>
-			<h2 class="col-xs-12 col-md-11 col-md-offset-1 col-lg-10 col-lg-offset-2">Contact Me</h2>
-			<div class="col-sm-6 col-md-4 col-md-offset-1 col-lg-offset-2">
-				<form action="validate.php" method="POST" id="form">
-				  	<div class="form-group">
-					    <label for="name">Name </label>
-					    <input type="text" id="name" name="name" class="form-control">
-				    </div>
-				    <div class="form-group">
-					    <label for="email">Email</label>
-					    <input type="text" id="email" name="email" class="form-control">
-				    </div>
-				    <div class="form-group">
-					    <label for="message">Message</label>
-					    <textarea id="message" name="message" class="form-control"></textarea>
-				    </div>
-				    <button class="btn btn-lg btn-green">Send</button>
-				</form>
-			</div>
-			<div class="col-sm-6 col-md-4 col-md-offset-1">
-				<h2>Phone &amp; Email</h2>
-				<a class="p_Num" href="tel:949.280.6557"></a>
-				<a class="email_add" href="mailto:alexmattingley@gmail.com"></a>
-			</div>
-		</div>
+		<?php include 'inc/contact.php'; ?> 
 		<?php include 'inc/footer.php'; ?>
