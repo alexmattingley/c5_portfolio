@@ -9,6 +9,8 @@ var h4_string = "My name is Alex Mattingley and I develop websites and applicati
 var current_string_index = 0;
 var $hero_h1 =  $('.home-page-hero h1');
 var $hero_h4 = $('.home-page-hero h4');
+var blinking_cursor = "<span id='cursor'>|</span>";
+
 
 /**************
  * functionName: type_effect
@@ -21,9 +23,8 @@ var $hero_h4 = $('.home-page-hero h4');
 function type_effect(target_dom, output_string, min_interval, max_interval){
 	var interval_delta = max_interval - min_interval;
 	if(current_string_index <  output_string.length){
-		target_dom.text(target_dom.text()+output_string[current_string_index++]);
+		target_dom.html(target_dom.html()+output_string[current_string_index++]);
 		var random_time = Math.floor(Math.random()*interval_delta+ min_interval);
-		console.log(random_time);
 		setTimeout(function(){
 			type_effect(target_dom, output_string, max_interval, min_interval)
 		}, random_time);

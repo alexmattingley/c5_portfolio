@@ -269,7 +269,7 @@ label {
 }
 
 .honey {
-
+	display: none;
 }
 
 /*about*/
@@ -290,6 +290,10 @@ label {
 footer {
 	background: #FF8973;
 	color: white;
+}
+
+.contact-li a {
+	display: block;
 }
 
 footer a {

@@ -47,7 +47,7 @@ print_r($_POST);
     <a name="contact"></a>
     <h2 class="col-xs-12 col-md-11 col-md-offset-1 col-lg-10 col-lg-offset-2">Contact Me</h2>
     <div class="col-sm-6 col-md-4 col-md-offset-1 col-lg-offset-2">
-        <form action="index.php#contact" role="form" method="POST" id="form">
+        <form role="form" method="POST" id="form">
             <div class="form-group">
                 <label for="name">Name </label>
                 <input type="text" id="name" name="name" class="form-control" >
