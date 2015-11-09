@@ -129,5 +129,5 @@
 			</div>
 			<h5 class="text-center more-skills"><a href="javascript:;">More Skills</a><i class="glyphicon glyphicon-menu-down text-center"></i></h5>
 		</div>
-		<?php include 'inc/contact.php'; ?> 
+		<?php include 'inc/contact.php'; ?>
 		<?php include 'inc/footer.php'; ?>
