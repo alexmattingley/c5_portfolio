@@ -2,7 +2,6 @@
 $errName = '';
 $errEmail = '';
 $errMessage = '';
-$errobots = '';
 if (isset($_POST["submit"])) {
     $name = htmlspecialchars($_POST['name']);
     $email = htmlspecialchars($_POST['email']);
@@ -27,8 +26,12 @@ if (isset($_POST["submit"])) {
     if (!$_POST['message']) {
         $errMessage = 'Please enter your message';
     }
+
+    if($errobots){
+        echo "NO ROBOTS!";
+    }
 // If there are no errors, send the email
-    if (!$errName && !$errEmail && !$errMessage) {
+    if (!$errName && !$errEmail && !$errMessage && !$errobots) {
         if (mail ($to, $subject, $body, $from)) {
             $result='<div class="alert alert-success">Thank You! I will be in touch</div>';
         } else {
