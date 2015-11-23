@@ -12,28 +12,6 @@ var $hero_h4 = $('.home-page-hero h4');
 var blinking_cursor = "<span id='cursor'>|</span>";
 
 
-/**************
- * functionName: type_effect
- * @purpose: types out the text in hero-text
- * @params: target_dom, output_string, min_interval, max_interval;
- * @globals: h1_string, h4_string, current_string_index, $hero_h1, $hero_h4
- * @returns: N/A
- */
-
-function type_effect(target_dom, output_string, min_interval, max_interval){
-	var interval_delta = max_interval - min_interval;
-	if(current_string_index <  output_string.length){
-		target_dom.html(target_dom.html()+output_string[current_string_index++]);
-		var random_time = Math.floor(Math.random()*interval_delta+ min_interval);
-		setTimeout(function(){
-			type_effect(target_dom, output_string, max_interval, min_interval)
-		}, random_time);
-	}else{
-		current_string_index = 0;
-	}
-
-}
-
 //basic function for fadein of text in the individual projects
 $('.indiv-project').on('mouseenter', function(){
 	$(this).find('p').fadeIn(2000);
@@ -123,6 +101,44 @@ function add_contact_info() {
 	var pNum = ' (949) 280-6557';
 	email_add.html(e_icon + e_name + server_name);
 	phe_class.html(phe_icon + pNum);
+}
+
+/**************
+ * functionName: type_effect
+ * @purpose: types out the text in hero-text
+ * @params: target_dom, output_string, min_interval, max_interval;
+ * @globals: h1_string, h4_string, current_string_index, $hero_h1, $hero_h4
+ * @returns: N/A
+ */
+
+function type_effect(target_dom, output_string, min_interval, max_interval){
+	var interval_delta = max_interval - min_interval;
+	if(current_string_index <  output_string.length){
+		target_dom.html(target_dom.html()+output_string[current_string_index++] + blinking_cursor);
+		var random_time = Math.floor(Math.random()*interval_delta+ min_interval);
+		setTimeout(function(){
+			type_effect(target_dom, output_string, max_interval, min_interval)
+		}, random_time);
+		console.log('target dom html: ', target_dom.html());
+		setInterval ('cursorAnimation()', 600);
+		setTimeout(function(){
+			$('#cursor').remove()}, random_time
+		);
+	}else{
+		current_string_index = 0;
+	}
+	if(target_dom == $hero_h4 && current_string_index == output_string.length){
+		target_dom.html(target_dom.html() + blinking_cursor);
+	}
+
+}
+
+function cursorAnimation() {
+	$('#cursor').animate({
+		opacity: 0
+	}, 'slow', 'swing').animate({
+		opacity: 1
+	}, 'slow', 'swing');
 }
 
 
