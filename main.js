@@ -5,10 +5,10 @@ Globals
 var project_load_click = 0;
 
 var h1_string = "hello.";
-var h4_string = "My name is Alex Mattingley and I develop websites and applications.";
+var p_string = "My name is Alex Mattingley and I develop websites and applications.";
 var current_string_index = 0;
 var $hero_h1 =  $('.home-page-hero h1');
-var $hero_h4 = $('.home-page-hero h4');
+var $hero_p = $('.home-page-hero p');
 var blinking_cursor = "<span id='cursor'>|</span>";
 
 
@@ -107,7 +107,7 @@ function add_contact_info() {
  * functionName: type_effect
  * @purpose: types out the text in hero-text
  * @params: target_dom, output_string, min_interval, max_interval;
- * @globals: h1_string, h4_string, current_string_index, $hero_h1, $hero_h4
+ * @globals: h1_string, p_string, current_string_index, $hero_h1, $hero_p
  * @returns: N/A
  */
 
@@ -127,8 +127,8 @@ function type_effect(target_dom, output_string, min_interval, max_interval){
 	}else{
 		current_string_index = 0;
 	}
-	if(target_dom == $hero_h4 && current_string_index == output_string.length){
-		target_dom.html(target_dom.html() + blinking_cursor);
+	if(target_dom == $hero_p && current_string_index == output_string.length){
+		target_dom.html(target_dom.html() + '' + blinking_cursor);
 	}
 
 }
@@ -147,7 +147,7 @@ $(document).ready(function(){
 	type_effect($hero_h1, h1_string, 200, 300);
 
 	setTimeout(function(){
-		type_effect($hero_h4, h4_string, 50, 150);
+		type_effect($hero_p, p_string, 50, 150);
 	},2000);
 
 	$('body').on('click', '.work-block h5', function(){

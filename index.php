@@ -1,7 +1,7 @@
 <?php include 'inc/header.php'; ?>
 			<div class="hero-text text-center home-page-hero">
 				<h1></h1>
-				<h4></h4>
+				<p></p>
 				<a class="glyphicon glyphicon-menu-down text-center" href="#work"></a>
 			</div>
 		</div>
