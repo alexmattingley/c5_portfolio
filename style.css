@@ -1,7 +1,7 @@
 /*General Styles*/
 
 body {
-	font-size: 16px;
+	font-size: 18px;
 	font-family: monda, sans-serif;
 }
 
@@ -10,9 +10,15 @@ h1, h2, h3, h4, h5, h6 {
 	text-transform: uppercase;
 }
 
+h1 { font-size: 3em; }
+h2 { font-size: 2em; }
+h3 { font-size: 1.2em; }
+h4 { font-size: 1em; }
+h5 { font-size: .8em; }
+h6 { font-size: .6em; }
+
 a.glyphicon-menu-down.text-center {
 	display: block;
-	font-size: 2em;
 	color: #FF8973;
 }
 
@@ -130,6 +136,7 @@ label {
 
 .text-cover {
 	position: absolute;
+	z-index: 0;
 	top: 0%;
 	left: 0%;
 	width: 100%;
@@ -147,8 +154,12 @@ label {
 }
 
 .text-container {
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
 	position: relative;
 	top: 50%;
+	z-index: 100;
 	transform: translateY(-100%);
 }
 
@@ -318,10 +329,3 @@ footer a:hover {
 footer ul li {
 	margin: 30px auto;
 }
-
-h1 { font-size: 60px; }
-h2 { font-size: 37.33px; }
-h3 { font-size: 24.89px; }
-h4 { font-size: 20px; }
-h5 { font-size: 16px; }
-h6 { font-size: 12px; }
