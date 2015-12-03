@@ -1,16 +1,13 @@
 /*General Styles*/
 
 body {
-	font-size: 1.6em;
+	font-size: 16px;
 	font-family: monda, sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
 	font-family: offside, sans-serif;
-}
-
-h1 {
-	font-size: 56px;
+	text-transform: uppercase;
 }
 
 a.glyphicon-menu-down.text-center {
@@ -57,6 +54,11 @@ label {
 
 .hero-banner .hero-text {
 	padding-top: 15%;
+	text-transform: lowercase;
+}
+
+.hero-banner h1 {
+	text-transform: lowercase;
 }
 
 .hero-banner .navbar a {
@@ -317,3 +319,9 @@ footer ul li {
 	margin: 30px auto;
 }
 
+h1 { font-size: 60px; }
+h2 { font-size: 37.33px; }
+h3 { font-size: 24.89px; }
+h4 { font-size: 20px; }
+h5 { font-size: 16px; }
+h6 { font-size: 12px; }
