@@ -1,19 +1,3 @@
-$(document).ready(function(){
-
-	type_effect($hero_h1, h1_string, 200, 300);
-
-	setTimeout(function(){
-		type_effect($hero_h4, h4_string, 50, 150);
-	},2000);
-
-	set_work_block_height();
-
-	set_skill_block_height();
-
-	add_contact_info();
-});
-
-
 /****************
 Globals
 *****************/
@@ -21,33 +5,12 @@ Globals
 var project_load_click = 0;
 
 var h1_string = "hello.";
-var h4_string = "My name is Alex Mattingley and I develop websites and applications.";
+var p_string = "My name is Alex Mattingley and I develop websites and applications.";
 var current_string_index = 0;
 var $hero_h1 =  $('.home-page-hero h1');
-var $hero_h4 = $('.home-page-hero h4');
+var $hero_p = $('.home-page-hero p');
+var blinking_cursor = "<span id='cursor'>|</span>";
 
-/**************
- * functionName: type_effect
- * @purpose: types out the text in hero-text
- * @params: target_dom, output_string, min_interval, max_interval;
- * @globals: h1_string, h4_string, current_string_index, $hero_h1, $hero_h4
- * @returns: N/A
- */
-
-function type_effect(target_dom, output_string, min_interval, max_interval){
-	var interval_delta = max_interval - min_interval;
-	if(current_string_index <  output_string.length){
-		target_dom.text(target_dom.text()+output_string[current_string_index++]);
-		var random_time = Math.floor(Math.random()*interval_delta+ min_interval);
-		console.log(random_time);
-		setTimeout(function(){
-			type_effect(target_dom, output_string, max_interval, min_interval)
-		}, random_time);
-	}else{
-		current_string_index = 0;
-	}
-
-}
 
 //basic function for fadein of text in the individual projects
 $('.indiv-project').on('mouseenter', function(){
@@ -139,3 +102,61 @@ function add_contact_info() {
 	email_add.html(e_icon + e_name + server_name);
 	phe_class.html(phe_icon + pNum);
 }
+
+/**************
+ * functionName: type_effect
+ * @purpose: types out the text in hero-text
+ * @params: target_dom, output_string, min_interval, max_interval;
+ * @globals: h1_string, p_string, current_string_index, $hero_h1, $hero_p
+ * @returns: N/A
+ */
+
+function type_effect(target_dom, output_string, min_interval, max_interval){
+	var interval_delta = max_interval - min_interval;
+	if(current_string_index <  output_string.length){
+		target_dom.html(target_dom.html()+output_string[current_string_index++] + blinking_cursor);
+		var random_time = Math.floor(Math.random()*interval_delta+ min_interval);
+		setTimeout(function(){
+			type_effect(target_dom, output_string, max_interval, min_interval)
+		}, random_time);
+		console.log('target dom html: ', target_dom.html());
+		setInterval ('cursorAnimation()', 600);
+		setTimeout(function(){
+			$('#cursor').remove()}, random_time
+		);
+	}else{
+		current_string_index = 0;
+	}
+	if(target_dom == $hero_p && current_string_index == output_string.length){
+		target_dom.html(target_dom.html() + '' + blinking_cursor);
+	}
+
+}
+
+function cursorAnimation() {
+	$('#cursor').animate({
+		opacity: 0
+	}, 'slow', 'swing').animate({
+		opacity: 1
+	}, 'slow', 'swing');
+}
+
+
+$(document).ready(function(){
+
+	type_effect($hero_h1, h1_string, 200, 300);
+
+	setTimeout(function(){
+		type_effect($hero_p, p_string, 50, 150);
+	},2000);
+
+	$('body').on('click', '.work-block h5', function(){
+		vert_scroll();
+	});
+
+	set_work_block_height();
+
+	set_skill_block_height();
+
+	add_contact_info();
+});

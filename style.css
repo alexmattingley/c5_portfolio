@@ -2,6 +2,11 @@
 
 body {
 	font-size: 1.6em;
+	font-family: monda, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: offside, sans-serif;
 }
 
 h1 {
@@ -23,12 +28,12 @@ h2 {
 	color: grey;
 }
 
-button.btn-green {
+.btn-green {
 	background: #339D8E;
 	color: white;
 }
 
-button.btn-green:hover {
+.btn-green:hover {
 	color: grey;
 }
 
@@ -43,9 +48,9 @@ label {
 /*Hero Banner*/
 
 .hero-banner {
-	background: url('images/calafia.jpg') no-repeat;
+	background: url('images/k39.JPG') no-repeat;
 	height: 100vh;
-	color: white;
+	color: #339D8E;
 	background-size: cover;
 	background-attachment: fixed;
 }
@@ -55,7 +60,7 @@ label {
 }
 
 .hero-banner .navbar a {
-	color: white;
+	color: #339D8E;
 }
 
 .hero-banner .navbar a:hover {
@@ -84,6 +89,11 @@ label {
 
 .work-block h5 a {
 	color: #339D8E;
+}
+
+
+.grh-img {
+	background: url('images/calafia.jpg') no-repeat;
 }
 
 
@@ -263,6 +273,10 @@ label {
 	color: #FF8973;
 }
 
+.honey {
+	display: none;
+}
+
 /*about*/
 
 .about {
@@ -283,15 +297,15 @@ footer {
 	color: white;
 }
 
+.contact-li a {
+	display: block;
+}
+
 footer a {
 	color: white;
 }
 
-<<<<<<< HEAD
 footer .contact a {
-=======
-footer .contact-li a{
->>>>>>> master
 	display: block;
 }
 
